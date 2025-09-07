@@ -1,21 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World-Japan(1)
-https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World-Japan (2)
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1,Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV
 https://mt01.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G(1)
-https://mt01.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-https://mt01.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
 https://mt01.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-https://mt01.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
-https://mt01.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 tvg-name="NHK World FHD" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg"
+https://stream1.freetv.fun/4859b17332c905dbaaf7d6bfa9427f749fe9d425fb639bca77b4cffb8ec15ccb.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World-Japan (1)
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 tvg-name="NHK World-Japan(2)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png"
+https://stream1.freetv.fun/bab2f03660c8a4148c25201ce97cc93eb409945f42ef6030ac43503d549b1f62.m3u8
+#EXTINF:-1 tvg-name="NHK World-Japan(3)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png"
+https://stream1.freetv.fun/2117850db4255cd46eee3884ea44c4c6e594c9f31632772fbadb666caa9bfa8d.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G(1)
+https://mt01.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK G(2)
 https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-name="NHK G(3)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png"
+https://stream1.freetv.fun/9ea86e6b10e0c09b5700edb622c11af0ddb77782952a4c13f51664ecc22012ce.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
+https://mt01.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS(1)
+https://mt01.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 tvg-name="NHK BS(2)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg"
+https://stream1.freetv.fun/69ae2a7c0ed79b7b2b6ba5c5005192c6e449a8fba6c65a4f2f83ee315074eb0b.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K(1)
+https://mt01.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 tvg-name="NHK BSP4K(2)" tvg-id="10770" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021040986978_14.png"
+https://stream1.freetv.fun/f0125a378768cc97ae03de49d30e5f631121e46ff00638a7b85dca0e791e9436.m3u8
