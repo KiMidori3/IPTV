@@ -37,8 +37,6 @@ https://stream1.freetv.fun/f0125a378768cc97ae03de49d30e5f631121e46ff00638a7b85dc
 https://stream1.freetv.fun/nhk-bs4k-1.m3u8
 #EXTINF:-1,NHK BSP(4)
 http://125.227.210.55:8215/VideoInput/play.ts
-#EXTINF:-1,NHK BSP(5)
-https://stream1.freetv.fun/f0125a378768cc97ae03de49d30e5f631121e46ff00638a7b85dca0e791e9436.m3u8
 #EXTINF:-1,日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1,日テレNEWSセレクト
