@@ -49,12 +49,6 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-raku
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
 #EXTINF:-1,鉄道・旅
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1,BBC America
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1,Bloomberg TV Asia
-https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1,Bloomberg TV US
-https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1,NHK World-Japan(1)
 https://stream1.freetv.fun/4859b17332c905dbaaf7d6bfa9427f749fe9d425fb639bca77b4cffb8ec15ccb.m3u8
 #EXTINF:-1,NHK World-Japan (2)
@@ -66,4 +60,10 @@ https://stream1.freetv.fun/2117850db4255cd46eee3884ea44c4c6e594c9f31632772fbadb6
 #EXTINF:-1,NHK World-Japan(5)
 https://stream1.freetv.fun/7be6f67e00d2741ecf7fca2763d7a02366422256db4701d18bc809b0ae9a6d51.m3u8
 #EXTINF:-1,NHK World-Japan(6)
-https://stream1.freetv.fun/3b539958a7944f4faddc1815addd0d5b35a7fa53245ef977eb6fed599e62e58b.m3u8
+https://stream1.freetv.fun/3b539958a7944f4faddc1815addd0d5b35a7fa53245ef977eb6fed599e62e58b.m3u8
+#EXTINF:-1,BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1,Bloomberg TV Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1,Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
