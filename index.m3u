@@ -19,6 +19,8 @@ https://nhk4.mov3.co/hls/nhk.m3u8
 https://stream1.freetv.fun/28bb9f69f726711f983f7be1540dce9fa33ef21c07d887b17a7eae0d1281c407.m3u8
 #EXTINF:-1,NHK E
 https://mt01.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1,NHK Kishou Saigai
+https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 #EXTINF:-1,NHK BS(1)
 https://mt01.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1,NHK BS(2)
