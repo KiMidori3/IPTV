@@ -62,7 +62,9 @@ https://stream1.freetv.fun/2117850db4255cd46eee3884ea44c4c6e594c9f31632772fbadb6
 #EXTINF:-1,NHK World-Japan(5)
 https://stream1.freetv.fun/7be6f67e00d2741ecf7fca2763d7a02366422256db4701d18bc809b0ae9a6d51.m3u8
 #EXTINF:-1,NHK World-Japan(6)
-https://stream1.freetv.fun/3b539958a7944f4faddc1815addd0d5b35a7fa53245ef977eb6fed599e62e58b.m3u8
+https://stream1.freetv.fun/3b539958a7944f4faddc1815addd0d5b35a7fa53245ef977eb6fed599e62e58b.m3u8
+#EXTINF:-1,NHK World-Japan(7)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1,BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1,Bloomberg TV Asia
