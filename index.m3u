@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1,KansaiTV
-https://mt01.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1,TBS
-https://mt01.utako.moe/TBS/index.m3u8
+https://mt01.utako.moe/kansaitv/index.m3u8
 #EXTINF:-1,NHK G
 https://mt01.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1,NHK E
 https://mt01.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1,NTV
 https://mt01.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1,TBS
+https://mt01.utako.moe/TBS/index.m3u8
 #EXTINF:-1,Tokyo MX1
 https://mt01.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1,Tokyo MX2
