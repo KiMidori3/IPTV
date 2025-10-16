@@ -1,58 +1,22 @@
 #EXTM3U
-#EXTINF:-1,KansaiTV(1)
-https://mt01.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1,KansaiTV(2)
-https://stream1.freetv.fun/kansai-tv-1.m3u8
-#EXTINF:-1,KansaiTV(3)
-https://stream1.freetv.fun/8df99b50fc5f2c2e2e7dfcbfb7cdac5937892645f42104904ac96ebab6a60e97.m3u8
-#EXTINF:-1,TBS(1)
+#EXTINF:-1,KansaiTV
+https://mt01.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1,TBS
 https://mt01.utako.moe/TBS/index.m3u8
-#EXTINF:-1,TBS(2)
-https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1,TBS(3)
-https://stream1.freetv.fun/83f99ed8de2dae4806a002472dfdd3d7b3d5ddf6054ed221949b18b6694e09d7.m3u8
 #EXTINF:-1,NHK G(1)
 https://mt01.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1,NHK G(2)
-https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1,NHK G(3)
-https://stream1.freetv.fun/28bb9f69f726711f983f7be1540dce9fa33ef21c07d887b17a7eae0d1281c407.m3u8
 #EXTINF:-1,NHK E
 https://mt01.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1,NHK Kishou Saigai
 https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-#EXTINF:-1,NHK BS(1)
-https://mt01.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1,NHK BS(2)
-https://stream1.freetv.fun/69ae2a7c0ed79b7b2b6ba5c5005192c6e449a8fba6c65a4f2f83ee315074eb0b.m3u8
-#EXTINF:-1,NHK BS(3)
-https://stream1.freetv.fun/nhk-bs-1.m3u8
-#EXTINF:-1,NHK BS(4)
-http://125.227.210.55:8210/VideoInput/play.ts
-#EXTINF:-1,NHK BSP(1)
-https://mt01.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1,NHK BSP(2)
-https://stream1.freetv.fun/f0125a378768cc97ae03de49d30e5f631121e46ff00638a7b85dca0e791e9436.m3u8
-#EXTINF:-1,NHK BSP(3)
-https://stream1.freetv.fun/nhk-bs4k-1.m3u8
-#EXTINF:-1,NHK BSP(4)
-http://125.227.210.55:8215/VideoInput/play.ts
+#EXTINF:-1,NHK BS
+https://mt01.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1,NHK BSP4K
+https://mt01.utako.moe/bsp4k/index.m3u8
 
 
-#EXTINF:-1,NHK World-Japan(1)
-https://stream1.freetv.fun/4859b17332c905dbaaf7d6bfa9427f749fe9d425fb639bca77b4cffb8ec15ccb.m3u8
-#EXTINF:-1,NHK World-Japan (2)
+#EXTINF:-1,NHK World-Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1,NHK World-Japan(3)
-https://stream1.freetv.fun/bab2f03660c8a4148c25201ce97cc93eb409945f42ef6030ac43503d549b1f62.m3u8
-#EXTINF:-1,NHK World-Japan(4)
-https://stream1.freetv.fun/2117850db4255cd46eee3884ea44c4c6e594c9f31632772fbadb666caa9bfa8d.m3u8
-#EXTINF:-1,NHK World-Japan(5)
-https://stream1.freetv.fun/7be6f67e00d2741ecf7fca2763d7a02366422256db4701d18bc809b0ae9a6d51.m3u8
-#EXTINF:-1,NHK World-Japan(6)
-https://stream1.freetv.fun/3b539958a7944f4faddc1815addd0d5b35a7fa53245ef977eb6fed599e62e58b.m3u8
-#EXTINF:-1,NHK World-Japan(7)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1,BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1,Bloomberg TV Asia
