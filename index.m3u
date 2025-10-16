@@ -7,6 +7,12 @@ https://mt01.utako.moe/TBS/index.m3u8
 https://mt01.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1,NHK E
 https://mt01.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1,NTV
+https://mt01.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1,Tokyo MX1
+https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1,Tokyo MX2
+https://mt01.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1,NHK Kishou Saigai
 https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 #EXTINF:-1,NHK BS
