@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,KansaiTV
-https://mt01.utako.moe/kansaitv/index.m3u8
+# 地デジ東京
 #EXTINF:-1,NHK G
 https://mt01.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1,NHK E
@@ -13,14 +12,64 @@ https://mt01.utako.moe/TBS/index.m3u8
 https://mt01.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1,Tokyo MX2
 https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+
+
+# 地デジ大阪
+#EXTINF:-1,NHK G Osaka
+https://proxyv2.utako.moe/ph.php?&isp=1&id=gx06
+#EXTINF:-1,MBS
+https://mt01.utako.moe/mbs/index.m3u8
+#EXTINF:-1,KansaiTV
+https://mt01.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1,Yomiuri
+https://mt01.utako.moe/ytv/index.m3u8
+
+
+# BS
+#EXTINF:-1,NHK BS
+https://mt01.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1,NHK BSP4K
+https://mt01.utako.moe/bsp4k/index.m3u8
+
+
+# CS
+#EXTINF:-1,CNN j
+https://proxyv2.utako.moe/ph.php?&isp=1&id=cs16
+#EXTINF:-1,BBC JP
+https://proxyv2.utako.moe/ph.php?&isp=1&id=cs15
+#EXTINF:-1,TBS News
+https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11
+
+
+#Rチャンネル
+#EXTINF:-1, 日テレNEWS24
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1, ウェザーニュース
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1, Tokyo MX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1, STOCK VOICE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1, NewsWorld
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1, BloombergTV+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+#EXTINF:-1, EuroNews
+https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+
+
+#YouTube
+#EXTINF:-1, SREV-S
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760686384/ei/0JzxaI69La2RvcAPy76IoQU/ip/240f:6d:b58c:1:f590:590c:7b31:94d3/id/d0hKNudFrX0.1/itag/312/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr7---sn-3qqp-ioqls.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/ATw7iSU1fQmYxQgATUnoQbGp0KIpLH8WfdN1Q6n0WXKallnnK1QU3Eabus79_hBBEETMZisAa_IrMCGR/spc/hcYD5a9JojIoc4exzq7LlirrnTZ6-GxG5etrAdbu5dliLsx9vrJ9j4zrADq5kQ/vprv/1/playlist_type/DVR/initcwndbps/3833750/met/1760664785,/mh/Ts/mm/44/mn/sn-3qqp-ioqls/ms/lva/mv/m/mvi/7/pl/34/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1760664535/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAIs_tS5sgnuzS_C2Jc_1Q0SMA19UfO1ssjDcgJPK6RKTAiBl9-ck_TiiVTgjsJQibCxXJ0fwgX53eDxLgOLCCYfd1Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgPYmvvSo62Ul1MR2liYGuYto45HLOqVLHtfeRq5wj5akCIC8jgC_rleoqz3L4XuqCAhUk6d7xRT04_PQbNR3JMGgb/playlist/index.m3u8
+#EXTINF:-1, SREV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760686518/ei/Vp3xaNj1MYaFpt8P9Zyu2AQ/ip/240f:6d:b58c:1:f590:590c:7b31:94d3/id/kCieFrFAZk4.1/itag/312/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr4---sn-3qqp-ioqlr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/ATw7iSXf0k8fpiyKEybDK8qIhPC1m94uSfSjdklUjxXUY4B7Lnm6aVSXjgH6KxMt8s9Uj602jyA1yONE/spc/hcYD5WV-eHtI9g3NcADWcmVwvUHxALVJN7Wul2A1-w7pZX0AZvDDyuUYqnJPLg/vprv/1/playlist_type/DVR/initcwndbps/3965000/met/1760664920,/mh/Bj/mm/44/mn/sn-3qqp-ioqlr/ms/lva/mv/m/mvi/4/pl/34/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1760664535/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgWWVNRaiZ9wBIEFTjB1TK41fg8R4iYCe4iAL-Bg6uXO0CIBJkb89actTpMcy1E69tzkwj0xyc_xd4nqnsYMHBGIU9/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAL_YVgkFTiL2yeQon1edRXmcFJknRRhSVeb9XH85nE28AiEA44r9owtTBLn6fHpOnFMQSpysLNbzCzFDkJY7WFk09RE%3D/playlist/index.m3u8
+
+
+# etc
 #EXTINF:-1,NHK Kishou Saigai
 https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-#EXTINF:-1,NHK BS
-https://mt01.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1,NHK BSP4K
-https://mt01.utako.moe/bsp4k/index.m3u8
 
-
+# 外国
 #EXTINF:-1,NHK World-Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1,BBC America
