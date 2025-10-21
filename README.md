@@ -33,4 +33,13 @@ It is **not intended for public distribution or sharing**.
 
 ---
 
+## Related Links / 関連リンク
+
+- [karenda-jp / etc](https://github.com/karenda-jp/etc)  
+- [luongz / IPTV-JP](https://github.com/luongz/iptv-jp)  
+- [Rakuten TV Channel](https://channel.rakuten.co.jp/)  
+- [TVer](https://tver.jp/)
+
+---
+
 © 2025 kimidori
