@@ -24,9 +24,9 @@ It is **not intended for public distribution or sharing**.
 
 ## Playlist Usage / プレイリストの利用について
 
-- Any playlist files (e.g., `.m3u`, `.m3u8`) included in this repository are **for personal use only**.  
+- Any playlist files (e.g., `.m3u`) included in this repository are **for personal use only**.  
 - These playlists are meant to be used **only on my own devices**.  
 - **Sharing, re-uploading, or redistributing** these playlists or their links is strictly prohibited.  
 
-- このリポジトリに含まれるプレイリストファイル（例：`.m3u`、`.m3u8`など）は、**自分の端末での利用のみを目的としています。**  
+- このリポジトリに含まれるプレイリストファイル（例：`.m3u`など）は、**自分の端末での利用のみを目的としています。**  
 - これらのプレイリストやリンクを**他者と共有・再公開・再配布することは禁止**します。  
