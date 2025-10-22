@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 # 地デジ東京
 #EXTINF:-1,NHK G
 https://mt01.utako.moe/NHK_G/index.m3u8
