@@ -1,16 +1,16 @@
 #EXTM3U
 # 地デジ東京
-#EXTINF:-1,NHK G
+#EXTINF:-1,ＮＨＫ総合１・東京.jp
 https://mt01.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1,NHK E
+#EXTINF:-1,ＮＨＫＥテレ１・東京.jp
 https://mt01.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1,NTV
+#EXTINF:-1,日テレ.jp
 https://mt01.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1,TBS
+#EXTINF:-1,ＴＢＳ.jp
 https://mt01.utako.moe/TBS/index.m3u8
-#EXTINF:-1,Tokyo MX1
+#EXTINF:-1,ＴＯＫＹＯ　ＭＸ１.jp
 https://mt01.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1,Tokyo MX2
+#EXTINF:-1,ＴＯＫＹＯ　ＭＸ２.jp
 https://mt01.utako.moe/Tokyo_MX2/index.m3u8
 
 
@@ -26,18 +26,18 @@ https://mt01.utako.moe/ytv/index.m3u8
 
 
 # BS
-#EXTINF:-1,Ｎ Ｈ Ｋ .Ｂ Ｓ
+#EXTINF:-1,ＮＨＫ.ＢＳ.jp
 https://mt01.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1,NHK BSP4K
+#EXTINF:-1,NHK.BSP4K.jp
 https://mt01.utako.moe/bsp4k/index.m3u8
 
 
 # CS
 #EXTINF:-1,TBS News
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11
-#EXTINF:-1,BBC JP
+#EXTINF:-1,ＢＢＣニュース.jp
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs15
-#EXTINF:-1,CNN j
+#EXTINF:-1,ＣＮＮｊ.jp
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs16
 
 
@@ -85,4 +85,3 @@ https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1,Bloomberg TV US
 https://bloomberg.com/media-manifest/streams/us.m3u8
-
