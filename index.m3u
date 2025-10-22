@@ -1,89 +1,87 @@
 #EXTM3U
 # 地デジ東京
-#EXTINF:-1,NHK G
+#EXTINF:-1 tvg-id="ＮＨＫ総合１・東京" ,NHK G
 https://mt01.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1,NHK E
+#EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京" ,NHK E
 https://mt01.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1,NTV
+#EXTINF:-1 tvg-id="NTV" ,NTV
 https://mt01.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1,TBS
+#EXTINF:-1 tvg-id="ＴＢＳ" ,TBS
 https://mt01.utako.moe/TBS/index.m3u8
-#EXTINF:-1,Tokyo MX1
+#EXTINF:-1 tvg-id="ＴＯＫＹＯ ＭＸ１" ,Tokyo MX1
 https://mt01.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1,Tokyo MX2
+#EXTINF:-1 tvg-id="ＴＯＫＹＯ ＭＸ２" ,Tokyo MX2
 https://mt01.utako.moe/Tokyo_MX2/index.m3u8
 
 
 # 地デジ大阪
-#EXTINF:-1,NHK G Osaka
+#EXTINF:-1 tvg-id="NHK G Osaka" ,NHK G Osaka
 https://proxyv2.utako.moe/ph.php?&isp=1&id=gx06
-#EXTINF:-1,MBS
+#EXTINF:-1 tvg-id="MBS" ,MBS
 https://mt01.utako.moe/mbs/index.m3u8
-#EXTINF:-1,KansaiTV
+#EXTINF:-1 tvg-id="KansaiTV" ,KansaiTV
 https://mt01.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1,Yomiuri
+#EXTINF:-1 tvg-id="Yomiuri" ,Yomiuri
 https://mt01.utako.moe/ytv/index.m3u8
 
 
 # BS
-#EXTINF:-1,Ｎ Ｈ Ｋ .Ｂ Ｓ
+#EXTINF:-1 tvg-id="ＮＨＫ.ＢＳ" ,Ｎ Ｈ Ｋ .Ｂ Ｓ
 https://mt01.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1,NHK BSP4K
+#EXTINF:-1 tvg-id="NHK.BSP4K" ,NHK BSP4K
 https://mt01.utako.moe/bsp4k/index.m3u8
 
 
 # CS
-#EXTINF:-1,TBS News
+#EXTINF:-1 tvg-id="TBS.NEWS" ,TBS News
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11
-#EXTINF:-1,BBC JP
+#EXTINF:-1 tvg-id="ＢＢＣニュース" ,BBC JP
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs15
-#EXTINF:-1,CNN j
+#EXTINF:-1 tvg-id="CNNj" ,CNN j
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs16
 
 
 #Rチャンネル
-#EXTINF:-1, 日テレNEWS24
+#EXTINF:-1 tvg-id="日テレNEWS24" , 日テレNEWS24
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1, ウェザーニュース
+#EXTINF:-1 tvg-id="ウェザーニュース" , ウェザーニュース
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
-#EXTINF:-1, Tokyo MX
+#EXTINF:-1 tvg-id="Tokyo MX" , Tokyo MX
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1, STOCK VOICE
+#EXTINF:-1 tvg-id="STOCK VOICE" , STOCK VOICE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1, NewsWorld
+#EXTINF:-1 tvg-id="NewsWorld" , NewsWorld
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
-#EXTINF:-1, BloombergTV+
+#EXTINF:-1 tvg-id="BloombergTV+" , BloombergTV+
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
-#EXTINF:-1, EuroNews
+#EXTINF:-1 tvg-id="EuroNews" , EuroNews
 https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
 
 
 # TVer
-#EXTINF:-1, 日テレNEWS24-Tver
+#EXTINF:-1 tvg-id="日テレNEWS24" , 日テレNEWS24-Tver
 https://variants.streaks.jp/v5/tver-splive/ecc1ad44856545d382a4ee08e254da80/5b19a12960f24e76af940cc5d0ab1261/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
-#EXTINF:-1, TBS NEWS DIG
+#EXTINF:-1 tvg-id="TBS NEWS DIG" , TBS NEWS DIG
 https://variants.streaks.jp/v5/tver-splive/b4f588f1d2144308ac356b0fc0007de6/4b9f219963c04339b18dc50db9b5c4d2/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
 
 
 #YouTube
-#EXTINF:-1, SREV-S
+#EXTINF:-1 tvg-id="SREV-S" , SREV-S
 https://www.youtube.com/watch?v=d0hKNudFrX0
-#EXTINF:-1, SREV
+#EXTINF:-1 tvg-id="SREV" , SREV
 https://www.youtube.com/watch?v=kCieFrFAZk4
-#EXTINF:-1, 日テレNEWS24-YouTube
+#EXTINF:-1 tvg-id="日テレNEWS24-YouTube" , 日テレNEWS24-YouTube
 https://www.youtube.com/watch?v=t9kwjZBLI-A
-#EXTINF:-1, TBS NEWS DIG-YouTube
+#EXTINF:-1 tvg-id="TBS NEWS DIG-YouTube" , TBS NEWS DIG-YouTube
 https://www.youtube.com/watch?v=Anr15FA9OCI
 
 
 # etc
-#EXTINF:-1,NHK Kishou Saigai
+#EXTINF:-1 tvg-id="NHK Kishou Saigai" ,NHK Kishou Saigai
 https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 
 # 外国
-#EXTINF:-1,Bloomberg TV Asia
+#EXTINF:-1 tvg-id="Bloomberg TV Asia" ,Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1,Bloomberg TV US
+#EXTINF:-1 tvg-id="Bloomberg TV US" ,Bloomberg TV US
 https://bloomberg.com/media-manifest/streams/us.m3u8
-
-
