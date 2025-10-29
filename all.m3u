@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 ,Relay Server
-https://gitea.com/NextGenX02/utako-Relay/raw/branch/relay/jp-relay.m3u
-#EXTINF:-1 ,Main Server
-https://gitea.com/luongz/utako/raw/branch/main/jp_clean.m3u
