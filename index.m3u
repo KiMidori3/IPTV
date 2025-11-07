@@ -17,12 +17,12 @@ https://us1001.utako.moe/Tokyo_MX2/index.m3u8
 # 地デジ関西
 #EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06
+#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
+https://proxyvn.utako.moe/ph.php?&isp=1&id=gx04
 #EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx01
 #EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx03
-#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gx04
 
 
 # BS
@@ -77,10 +77,23 @@ https://www.youtube.com/watch?v=Anr15FA9OCI
 
 
 # 外国
-#EXTINF:-1,Bloomberg TV Asia
+#EXTINF:-1 tvg-id="BBCNews.uk" ,BBC News - UK
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk" ,BBC One - UK
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+#EXTINF:-1,F2 - FR
+http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1,ZDF - DE
+http://tv.schulzens.com/stream/channelid/2068356896?profile=pass
+#EXTINF:-1,TVE - ES
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1,ロシアテレビ - RU
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1,ABC - US
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1,Bloomberg TV Asia - Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1,Bloomberg TV US
+#EXTINF:-1,Bloomberg TV US - US
 https://bloomberg.com/media-manifest/streams/us.m3u8
-
 
 
