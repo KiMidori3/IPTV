@@ -77,21 +77,23 @@ https://www.youtube.com/watch?v=Anr15FA9OCI
 
 
 # 外国
-#EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News
+#EXTINF:-1 tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCOne.uk" ,BBC One - UK
+#EXTINF:-1 tvg-id="BBCOne.uk" ,BBC One
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
-#EXTINF:-1,F2 - FR
+#EXTINF:-1,F2
 http://69.64.57.208/france2/mono.m3u8
-#EXTINF:-1,ZDF - DE
+#EXTINF:-1,ZDF
 http://tv.schulzens.com/stream/channelid/2068356896?profile=pass
-#EXTINF:-1,TVE - ES
+#EXTINF:-1,TVE
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1,ロシアテレビ - RU
+#EXTINF:-1,ロシアテレビ
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1,ABC - US
+#EXTINF:-1,ABC US
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1,Bloomberg TV US - US
+#EXTINF:-1,Bloomberg TV US
 https://bloomberg.com/media-manifest/streams/us.m3u8
-
-
+#EXTINF:-1,ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1,ABC News
+https://c.mjh.nz/abc-news.m3u8
