@@ -1,43 +1,43 @@
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml" tvg-shift=0 m3uautoload=1
 # 地デジ関東
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/g1/g1-eyecatch.svg",NHK G
 https://us1001.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/e1/e1-eyecatch.svg",NHK E
 https://us1001.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://www.ntv.co.jp/top/images/banners/5aw6digxse1xlo8wiylfkz36jgb7je.jpg",NTV
 https://us1001.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://www.tbs.co.jp/ro/img/tbsv9_tbslogo_bg.svg",TBS
 https://us1001.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" ,TOKYO MX1
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://s.mxtv.jp/mcas_banner/mcas_l_none2025.jpg" ,TOKYO MX1
 https://us1001.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" ,TOKYO MX2
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://s.mxtv.jp/mcas_banner/mcas_l_none2025.jpg" ,TOKYO MX2
 https://us1001.utako.moe/Tokyo_MX2/index.m3u8
 
 
 # 地デジ関西
-#EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
+#EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/g1/g1-eyecatch.svg",NHK G Osaka
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06
-#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
+#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://www.ytv.co.jp/common/img/img_logo_ytv.svg",ytv
 https://us1001.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
+#EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://www.mbs.jp/common/ogp.png",MBS
 https://us1001.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV
+#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://www.ktv.jp/common/img/global/logo_kantele.png",Kansai TV
 https://us1001.utako.moe/kansaitv/index.m3u8
 
 
 # BS
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/s1/s1-eyecatch.svg",NHK BS
 https://nl00.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/s5/s5-eyecatch.svg",NHK BSP4K
 https://nl00.utako.moe/bsp4k/index.m3u8
 
 
 # CS
-#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj
+#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://www2.jctv.co.jp/assets/images/logo/logo.svg", CNNj
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16
-#EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News
+#EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://news.files.bbci.co.uk/include/articles/public/japanese/images/metadata/poster-1024x576.png", BBC News
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
-#EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News
+#EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg", TBS News
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
 
 
@@ -59,20 +59,20 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakuten
 
 
 # TVer
-#EXTINF:-1, 日テレNEWS24-Tver
+#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png", 日テレNEWS24-Tver
 https://variants.streaks.jp/v5/tver-splive/ecc1ad44856545d382a4ee08e254da80/5b19a12960f24e76af940cc5d0ab1261/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
-#EXTINF:-1, TBS NEWS DIG
+#EXTINF:-1 tvg-logo="https://newsdig.ismcdn.jp/common/images/site_logo.svg", TBS NEWS DIG
 https://variants.streaks.jp/v5/tver-splive/b4f588f1d2144308ac356b0fc0007de6/4b9f219963c04339b18dc50db9b5c4d2/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
 
 
 #YouTube
-#EXTINF:-1, SREV-S
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d0hKNudFrX0/hqdefault.jpg" ,SREV-S
 https://www.youtube.com/watch?v=d0hKNudFrX0
-#EXTINF:-1, SREV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kCieFrFAZk4/hqdefault.jpg" ,SREV
 https://www.youtube.com/watch?v=kCieFrFAZk4
-#EXTINF:-1, 日テレNEWS24-YouTube
+#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png", 日テレNEWS24-YouTube
 https://www.youtube.com/watch?v=t9kwjZBLI-A
-#EXTINF:-1, TBS NEWS DIG-YouTube
+#EXTINF:-1 tvg-logo="https://newsdig.ismcdn.jp/common/images/site_logo.svg", TBS NEWS DIG-YouTube
 https://www.youtube.com/watch?v=Anr15FA9OCI
 
 
@@ -95,5 +95,9 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1,ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1,ABC News
-https://c.mjh.nz/abc-news.m3u8
+#EXTINF:-1,朝鮮中央テレビ
+https://tv.intchoson.com/kctv/main_stream.m3u8
+#EXTINF:-1,KBS 1
+https://tv.iill.top/kbs/11&p=0
+#EXTINF:-1,KBS LiveCam
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
