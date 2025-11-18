@@ -77,6 +77,8 @@ https://www.youtube.com/watch?v=Anr15FA9OCI
 
 
 # 外国
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png", NHK World
+https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
 #EXTINF:-1 tvg-id="bbc_news" tvg-logo="https://kimidori3.github.io/IPTV/icons/BBC_JP.jpg", BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p0bvs64x.jpg" ,BBC One
@@ -97,7 +99,19 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Korean_central_tv.png" ,朝鮮中央テレビ
 https://tv.intchoson.com/kctv/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://img.tvb.com/inews_admin/pro/20230529/live_horizontal_61e53598295dff12d04b3ba5_1685346695745.jpg" ,TVB News
+http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-logo="https://www.publicmediaalliance.org/wp-content/uploads/2020/05/KBS2.png" ,KBS 1
 https://tv.iill.top/kbs/11&p=0
 #EXTINF:-1 tvg-logo="https://www.publicmediaalliance.org/wp-content/uploads/2020/05/KBS2.png" ,KBS LiveCam
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cna.com.br/wp-content/uploads/2024/06/logo-CNA.png" ,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/al-jazeera-logo-png-when-900.png" ,アルジャジーラ
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.ndtv.com/common/images/ogndtv.png" ,NDTV
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-logo="https://sntek.vn/wp-content/uploads/2023/10/VTV-1170x620.jpg" ,VTV
+https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.marefa.org/w/images/thumb/1/1c/Suspilne_Ukraine_logo.svg/1200px-Suspilne_Ukraine_logo.svg.png" ,ウクライナ公共放送
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
