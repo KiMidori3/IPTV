@@ -79,25 +79,25 @@ https://www.youtube.com/watch?v=Anr15FA9OCI
 # 外国
 #EXTINF:-1 tvg-id="bbc_news" tvg-logo="https://kimidori3.github.io/IPTV/icons/BBC_JP.jpg", BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCOne.uk" ,BBC One
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p0bvs64x.jpg" ,BBC One
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
-#EXTINF:-1,F2
+#EXTINF:-1 tvg-logo="https://www.france.tv/logos/social/france-tv.jpg" ,F2
 http://69.64.57.208/france2/mono.m3u8
-#EXTINF:-1,ZDF
+#EXTINF:-1 tvg-logo="https://www.flyingeye.de/wp-content/uploads/2019/05/ZDF_Logo_600x300-1.jpg" ,ZDF
 http://tv.schulzens.com/stream/channelid/2068356896?profile=pass
-#EXTINF:-1,TVE
+#EXTINF:-1 rvg-logo="https://medias.unifrance.org/medias/5/67/148229/format_hd/tve-television-espanola.png" ,TVE
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1,ロシアテレビ
+#EXTINF:-1 tvg-logo="https://d.newsweek.com/en/full/2130777/russia-1-tv-channel.jpg" ,ロシアテレビ
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1,ABC US
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Emblem.png" ,ABC US
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1,Bloomberg TV US
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/featuredImage.jpg" ,Bloomberg TV US
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1,ABC Australia
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/abc_logo-freelogovectors.net_.png" ,ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1,朝鮮中央テレビ
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Korean_central_tv.png" ,朝鮮中央テレビ
 https://tv.intchoson.com/kctv/main_stream.m3u8
-#EXTINF:-1,KBS 1
+#EXTINF:-1 tvg-logo="https://www.publicmediaalliance.org/wp-content/uploads/2020/05/KBS2.png" ,KBS 1
 https://tv.iill.top/kbs/11&p=0
-#EXTINF:-1,KBS LiveCam
+#EXTINF:-1 tvg-logo="https://www.publicmediaalliance.org/wp-content/uploads/2020/05/KBS2.png" ,KBS LiveCam
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
