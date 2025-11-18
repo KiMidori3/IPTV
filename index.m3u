@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml" tvg-shift=0 m3uautoload=1
 # 地デジ関東
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/g1/g1-eyecatch.svg",NHK G
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G
 https://us1001.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/e1/e1-eyecatch.svg",NHK E
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-E1.jpg",NHK E
 https://us1001.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://www.ntv.co.jp/top/images/banners/5aw6digxse1xlo8wiylfkz36jgb7je.jpg",NTV
 https://us1001.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://www.tbs.co.jp/ro/img/tbsv9_tbslogo_bg.svg",TBS
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS.jpg",TBS
 https://us1001.utako.moe/TBS/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://s.mxtv.jp/mcas_banner/mcas_l_none2025.jpg" ,TOKYO MX1
 https://us1001.utako.moe/Tokyo_MX1/index.m3u8
@@ -15,9 +15,9 @@ https://us1001.utako.moe/Tokyo_MX2/index.m3u8
 
 
 # 地デジ関西
-#EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/g1/g1-eyecatch.svg",NHK G Osaka
+#EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G Osaka
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06
-#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://www.ytv.co.jp/common/img/img_logo_ytv.svg",ytv
+#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://kimidori3.github.io/IPTV/icons/ytv.jpg",ytv
 https://us1001.utako.moe/ytv/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://www.mbs.jp/common/ogp.png",MBS
 https://us1001.utako.moe/mbs/index.m3u8
@@ -26,14 +26,14 @@ https://us1001.utako.moe/kansaitv/index.m3u8
 
 
 # BS
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/s1/s1-eyecatch.svg",NHK BS
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BS.jpg",NHK BS
 https://nl00.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/s5/s5-eyecatch.svg",NHK BSP4K
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BSP4K.jpg",NHK BSP4K
 https://nl00.utako.moe/bsp4k/index.m3u8
 
 
 # CS
-#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://www2.jctv.co.jp/assets/images/logo/logo.svg", CNNj
+#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://kimidori3.github.io/IPTV/icons/CNNj.jpg", CNNj
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16
 #EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://news.files.bbci.co.uk/include/articles/public/japanese/images/metadata/poster-1024x576.png", BBC News
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
@@ -61,7 +61,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakuten
 # TVer
 #EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png", 日テレNEWS24-Tver
 https://variants.streaks.jp/v5/tver-splive/ecc1ad44856545d382a4ee08e254da80/5b19a12960f24e76af940cc5d0ab1261/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
-#EXTINF:-1 tvg-logo="https://newsdig.ismcdn.jp/common/images/site_logo.svg", TBS NEWS DIG
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS_News.jpg", TBS NEWS DIG
 https://variants.streaks.jp/v5/tver-splive/b4f588f1d2144308ac356b0fc0007de6/4b9f219963c04339b18dc50db9b5c4d2/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
 
 
@@ -72,12 +72,12 @@ https://www.youtube.com/watch?v=d0hKNudFrX0
 https://www.youtube.com/watch?v=kCieFrFAZk4
 #EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png", 日テレNEWS24-YouTube
 https://www.youtube.com/watch?v=t9kwjZBLI-A
-#EXTINF:-1 tvg-logo="https://newsdig.ismcdn.jp/common/images/site_logo.svg", TBS NEWS DIG-YouTube
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS_News.jpg", TBS NEWS DIG-YouTube
 https://www.youtube.com/watch?v=Anr15FA9OCI
 
 
 # 外国
-#EXTINF:-1 tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News
+#EXTINF:-1 tvg-id="bbc_news" tvg-logo="https://kimidori3.github.io/IPTV/icons/BBC_JP.jpg", BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk" ,BBC One
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
