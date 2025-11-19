@@ -103,8 +103,6 @@ https://tv.intchoson.com/kctv/main_stream.m3u8
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-logo="https://www.publicmediaalliance.org/wp-content/uploads/2020/05/KBS2.png" ,KBS 1
 https://tv.iill.top/kbs/11&p=0
-#EXTINF:-1 tvg-logo="https://www.publicmediaalliance.org/wp-content/uploads/2020/05/KBS2.png" ,KBS LiveCam
-http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cna.com.br/wp-content/uploads/2024/06/logo-CNA.png" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/al-jazeera-logo-png-when-900.png" ,アルジャジーラ
