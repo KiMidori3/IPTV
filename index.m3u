@@ -40,6 +40,13 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg", TBS News
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
 
+# Radio
+#EXTINF:-1 tvg-logo="", NHK R1
+https://simul.drdi.st.nhk/live/3/joined/audio/media.m3u8
+#EXTINF:-1 tvg-logo="", NHK R2
+https://simul.drdi.st.nhk/live/4/joined/audio/media.m3u8
+#EXTINF:-1 tvg-logo="", NHK FM
+https://simul.drdi.st.nhk/live/5/joined/audio/media.m3u8
 
 #Rチャンネル
 #EXTINF:-1 tvg-dt="47" tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP",日テレNEWS
