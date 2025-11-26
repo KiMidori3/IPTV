@@ -18,11 +18,13 @@ https://nl.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G Osaka
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06
 #EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://kimidori3.github.io/IPTV/icons/ytv.jpg",ytv
-https://us1001.utako.moe/ytv/index.m3u8
+https://nl.utako.moe/ytv/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://www.mbs.jp/common/ogp.png",MBS
-https://us1001.utako.moe/mbs/index.m3u8
+https://nl.utako.moe/mbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://www.ktv.jp/common/img/global/logo_kantele.png",Kansai TV
-https://us1001.utako.moe/kansaitv/index.m3u8
+https://nl.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
+https://nl.utako.moe/kbs/index.m3u8
 
 
 # BS
@@ -39,6 +41,7 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg", TBS News
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
+
 
 # Radio
 #EXTINF:-1 tvg-logo="", NHK R1
