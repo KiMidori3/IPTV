@@ -27,9 +27,9 @@ https://us1001.utako.moe/kansaitv/index.m3u8
 
 # BS
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BS.jpg",NHK BS
-https://nl00.utako.moe/NHK_BS/index.m3u8
+https://nl.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BSP4K.jpg",NHK BSP4K
-https://nl00.utako.moe/bsp4k/index.m3u8
+https://nl.utako.moe/bsp4k/index.m3u8
 
 
 # CS
