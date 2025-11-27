@@ -68,6 +68,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-r
 https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
 
 
+# AbemaTV
+#EXTINF:-1  tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png", ABEMA NEWSチャンネル
+https://ds-linear-abematv.akamaized.net/channel/abema-news/manifest.mpd
+#EXTINF:-1  tvg-id="news-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/news-plus/logo.png", ABEMA NEWS会見チャンネル
+https://ds-linear-abematv.akamaized.net/channel/news-plus/manifest.mpd
+#EXTINF:-1  tvg-id="commercial" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png", CMチャンネル
+https://ds-linear-abematv.akamaized.net/channel/commercial/manifest.mpd
+
+
 # TVer
 #EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png"　group-title="TVer"　, 日テレNEWS24-Tver
 https://variants.streaks.jp/v5/tver-splive/ecc1ad44856545d382a4ee08e254da80/5b19a12960f24e76af940cc5d0ab1261/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
