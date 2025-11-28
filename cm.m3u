@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml" tvg-shift=0 m3uautoload=1
+#EXTINF:-1  tvg-id="commercial" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png", CMチャンネル
+https://ds-linear-abematv.akamaized.net/channel/commercial/manifest.mpd
