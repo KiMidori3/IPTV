@@ -101,7 +101,7 @@ https://www.youtube.com/watch?v=Anr15FA9OCI
 
 # 外国
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png"　group-title="Foreign"　, NHK World Japan
-https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png"　group-title="Foreign"　, NHK World Premium
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="bbc_news" tvg-logo="https://kimidori3.github.io/IPTV/icons/BBC_JP.jpg"　group-title="Foreign"　, BBC News
