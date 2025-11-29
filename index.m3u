@@ -88,6 +88,10 @@ https://variants.streaks.jp/v5/tver-splive/ecc1ad44856545d382a4ee08e254da80/5b19
 https://variants.streaks.jp/v5/tver-splive/b4f588f1d2144308ac356b0fc0007de6/4b9f219963c04339b18dc50db9b5c4d2/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
 
 
+#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" , 日テレNEWS24
+https://n24-cdn-live-x.ntv.co.jp/ch01/index.m3u8
+
+
 #YouTube
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d0hKNudFrX0/hqdefault.jpg" group-title="Youtube" ,SREV-S
 https://www.youtube.com/watch?v=d0hKNudFrX0
