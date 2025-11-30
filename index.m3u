@@ -44,11 +44,11 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
 
 
 # Radio
-#EXTINF:-1 tvg-logo="", NHK R1
+#EXTINF:-1 tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/r1/r1-eyecatch.svg", NHK R1
 https://simul.drdi.st.nhk/live/3/joined/audio/media.m3u8
-#EXTINF:-1 tvg-logo="", NHK R2
+#EXTINF:-1 tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/r2/r2-eyecatch.svg", NHK R2
 https://simul.drdi.st.nhk/live/4/joined/audio/media.m3u8
-#EXTINF:-1 tvg-logo="", NHK FM
+#EXTINF:-1 tvg-logo="https://imgu.web.nhk/common/broadcastservice/bs/r3/r3-eyecatch.svg", NHK FM
 https://simul.drdi.st.nhk/live/5/joined/audio/media.m3u8
 
 #Rチャンネル
