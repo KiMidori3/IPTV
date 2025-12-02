@@ -29,7 +29,7 @@ https://nl.utako.moe/ytv/index.m3u8
 https://nl.utako.moe/mbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://www.ktv.jp/common/img/global/logo_kantele.png",Kansai TV
 https://nl.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://www.kbs-kyoto.co.jp/assets/img/siteid.png
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://www.kbs-kyoto.co.jp/assets/img/siteid.png" ,KBS
 https://nl.utako.moe/kbs/index.m3u8
 
 
