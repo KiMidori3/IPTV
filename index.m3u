@@ -1,13 +1,19 @@
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml" tvg-shift=0 m3uautoload=1
+
+
 # 地デジ関東
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G
 https://nl.utako.moe/NHK_G/index.m3u8
+# https://nhk4.mov3.co/hls/nhk.m3u8
+# http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-E1.jpg",NHK E
 https://nl.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://www.ntv.co.jp/top/images/banners/5aw6digxse1xlo8wiylfkz36jgb7je.jpg",NTV
 https://nl.utako.moe/Nippon_TV/index.m3u8
+# https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS.jpg",TBS
 https://nl.utako.moe/TBS/index.m3u8
+# https://tbs4.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://kimidori3.github.io/IPTV/icons/mcas_l_none2025.jpg" ,TOKYO MX1
 https://nl.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://kimidori3.github.io/IPTV/icons/mcas_l_none2025.jpg" ,TOKYO MX2
@@ -30,6 +36,14 @@ https://nl.utako.moe/kbs/index.m3u8
 # BS
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BS.jpg",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
+https://nl.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
+https://nl.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
+https://nl.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
+https://nl.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BSP4K.jpg",NHK BSP4K
 https://nl.utako.moe/bsp4k/index.m3u8
 
@@ -86,10 +100,6 @@ https://ds-linear-abematv.akamaized.net/channel/commercial/manifest.mpd
 https://variants.streaks.jp/v5/tver-splive/ecc1ad44856545d382a4ee08e254da80/5b19a12960f24e76af940cc5d0ab1261/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
 #EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS_News.jpg" group-title="TVer" , TBS NEWS DIG
 https://variants.streaks.jp/v5/tver-splive/b4f588f1d2144308ac356b0fc0007de6/4b9f219963c04339b18dc50db9b5c4d2/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
-
-
-#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" , 日テレNEWS24
-https://n24-cdn-live-x.ntv.co.jp/ch01/index.m3u8
 
 
 #YouTube
