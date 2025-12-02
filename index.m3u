@@ -58,11 +58,11 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
 
 
 # Radio
-#EXTINF:-1 tvg-logo="kimidori3.github.io/IPTV/icons/r1-badge9x4.png", NHK R1
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/r1-badge9x4.png", NHK R1
 https://simul.drdi.st.nhk/live/3/joined/audio/media.m3u8
-#EXTINF:-1 tvg-logo="kimidori3.github.io/IPTV/icons/r2-badge9x4.png", NHK R2
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/r2-badge9x4.png", NHK R2
 https://simul.drdi.st.nhk/live/4/joined/audio/media.m3u8
-#EXTINF:-1 tvg-logo="kimidori3.github.io/IPTV/icons/r3-badge9x4.png", NHK FM
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/r3-badge9x4.png", NHK FM
 https://simul.drdi.st.nhk/live/5/joined/audio/media.m3u8
 
 #Rチャンネル
@@ -109,7 +109,7 @@ https://www.youtube.com/watch?v=d0hKNudFrX0
 https://www.youtube.com/watch?v=kCieFrFAZk4
 #EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Youtube" , 日テレNEWS24-YouTube
 https://www.youtube.com/watch?v=t9kwjZBLI-A
-#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS_News.jpg group-title="Youtube" , TBS NEWS DIG-YouTube
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS_News.jpg" group-title="Youtube" , TBS NEWS DIG-YouTube
 https://www.youtube.com/watch?v=Anr15FA9OCI
 
 
