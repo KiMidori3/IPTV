@@ -36,7 +36,7 @@ https://nl.utako.moe/kbs/index.m3u8
 # BS
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BS.jpg",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://www.bs4.jp/assets/images/meta/apple-touch-icon.png",BS NTV
 https://nl.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
 https://nl.utako.moe/bstbs/index.m3u8
