@@ -14,6 +14,8 @@ https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS.jpg",TBS
 https://nl.utako.moe/TBS/index.m3u8
 # https://tbs4.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
+https://nl.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://kimidori3.github.io/IPTV/icons/mcas_l_none2025.jpg" ,TOKYO MX1
 https://nl.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://kimidori3.github.io/IPTV/icons/mcas_l_none2025.jpg" ,TOKYO MX2
@@ -27,6 +29,8 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06
 https://nl.utako.moe/ytv/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://www.mbs.jp/common/ogp.png",MBS
 https://nl.utako.moe/mbs/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
+https://nl.utako.moe/tvo/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://www.ktv.jp/common/img/global/logo_kantele.png",Kansai TV
 https://nl.utako.moe/kansaitv/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://www.kbs-kyoto.co.jp/assets/img/siteid.png" ,KBS
