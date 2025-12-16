@@ -1,48 +1,149 @@
-#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/default.xml, https://xmltv.tvkaista.net/guides/abc.net.au.xml, https://xmltv.tvkaista.net/guides/allente.dk.xml, https://xmltv.tvkaista.net/guides/allente.fi.xml, https://xmltv.tvkaista.net/guides/allente.no.xml, https://xmltv.tvkaista.net/guides/allente.se.xml, https://xmltv.tvkaista.net/guides/andorradifusio.ad.xml, https://xmltv.tvkaista.net/guides/anteltv.com.uy.xml, https://xmltv.tvkaista.net/guides/arianaafgtv.com.xml, https://xmltv.tvkaista.net/guides/arianatelevision.com.xml, https://xmltv.tvkaista.net/guides/arirang.com.xml, https://xmltv.tvkaista.net/guides/artonline.tv.xml, https://xmltv.tvkaista.net/guides/bein.com.xml, https://xmltv.tvkaista.net/guides/beinsports.com.xml, https://xmltv.tvkaista.net/guides/berrymedia.co.kr.xml, https://xmltv.tvkaista.net/guides/cablego.com.pe.xml, https://xmltv.tvkaista.net/guides/cableplus.com.uy.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bi.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bj.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bl.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cd.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cg.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ch.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ci.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cm.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cv.xml, https://xmltv.tvkaista.net/guides/canalplus.com_dj.xml, https://xmltv.tvkaista.net/guides/canalplus.com_fr.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ga.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gh.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gm.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gn.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gw.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ml.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mq.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mr.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mu.xml, https://xmltv.tvkaista.net/guides/canalplus.com_nc.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ne.xml, https://xmltv.tvkaista.net/guides/canalplus.com_re.xml, https://xmltv.tvkaista.net/guides/canalplus.com_rw.xml, https://xmltv.tvkaista.net/guides/canalplus.com_sl.xml, https://xmltv.tvkaista.net/guides/canalplus.com_sn.xml, https://xmltv.tvkaista.net/guides/canalplus.com_td.xml, https://xmltv.tvkaista.net/guides/canalplus.com_tg.xml, https://xmltv.tvkaista.net/guides/canalplus.com_wf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_yt.xml, https://xmltv.tvkaista.net/guides/cgates.lt.xml, https://xmltv.tvkaista.net/guides/chaines-tv.orange.fr.xml, https://xmltv.tvkaista.net/guides/clickthecity.com.xml, https://xmltv.tvkaista.net/guides/content.astro.com.my.xml, https://xmltv.tvkaista.net/guides/cosmote.gr.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml, https://xmltv.tvkaista.net/guides/directv.com.uy.xml, https://xmltv.tvkaista.net/guides/dishtv.in.xml, https://xmltv.tvkaista.net/guides/disneystar.com.xml, https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml, https://xmltv.tvkaista.net/guides/dstv.com_ao.xml, https://xmltv.tvkaista.net/guides/dstv.com_bf.xml, https://xmltv.tvkaista.net/guides/dstv.com_bi.xml, https://xmltv.tvkaista.net/guides/dstv.com_bj.xml, https://xmltv.tvkaista.net/guides/dstv.com_bw.xml, https://xmltv.tvkaista.net/guides/dstv.com_cd.xml, https://xmltv.tvkaista.net/guides/dstv.com_cf.xml, https://xmltv.tvkaista.net/guides/dstv.com_cg.xml, https://xmltv.tvkaista.net/guides/dstv.com_ci.xml, https://xmltv.tvkaista.net/guides/dstv.com_cm.xml, https://xmltv.tvkaista.net/guides/dstv.com_dj.xml, https://xmltv.tvkaista.net/guides/dstv.com_er.xml, https://xmltv.tvkaista.net/guides/dstv.com_et.xml, https://xmltv.tvkaista.net/guides/dstv.com_gh.xml, https://xmltv.tvkaista.net/guides/dstv.com_gm.xml, https://xmltv.tvkaista.net/guides/dstv.com_gn.xml, https://xmltv.tvkaista.net/guides/dstv.com_gq.xml, https://xmltv.tvkaista.net/guides/dstv.com_gw.xml, https://xmltv.tvkaista.net/guides/dstv.com_ke.xml, https://xmltv.tvkaista.net/guides/dstv.com_km.xml, https://xmltv.tvkaista.net/guides/dstv.com_lr.xml, https://xmltv.tvkaista.net/guides/dstv.com_mg.xml, https://xmltv.tvkaista.net/guides/dstv.com_ml.xml, https://xmltv.tvkaista.net/guides/dstv.com_mr.xml, https://xmltv.tvkaista.net/guides/dstv.com_mu.xml, https://xmltv.tvkaista.net/guides/dstv.com_mw.xml, https://xmltv.tvkaista.net/guides/dstv.com_mz.xml, https://xmltv.tvkaista.net/guides/dstv.com_na.xml, https://xmltv.tvkaista.net/guides/dstv.com_ne.xml, https://xmltv.tvkaista.net/guides/dstv.com_ng.xml, https://xmltv.tvkaista.net/guides/dstv.com_rw.xml, https://xmltv.tvkaista.net/guides/dstv.com_sc.xml, https://xmltv.tvkaista.net/guides/dstv.com_sd.xml, https://xmltv.tvkaista.net/guides/dstv.com_sl.xml, https://xmltv.tvkaista.net/guides/dstv.com_sn.xml, https://xmltv.tvkaista.net/guides/dstv.com_so.xml, https://xmltv.tvkaista.net/guides/dstv.com_ss.xml, https://xmltv.tvkaista.net/guides/dstv.com_st.xml, https://xmltv.tvkaista.net/guides/dstv.com_td.xml, https://xmltv.tvkaista.net/guides/dstv.com_tg.xml, https://xmltv.tvkaista.net/guides/dstv.com_tz.xml, https://xmltv.tvkaista.net/guides/dstv.com_ug.xml, https://xmltv.tvkaista.net/guides/dstv.com_za.xml, https://xmltv.tvkaista.net/guides/dstv.com_zm.xml, https://xmltv.tvkaista.net/guides/dstv.com_zw.xml, https://xmltv.tvkaista.net/guides/elcinema.com.xml, https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml, https://xmltv.tvkaista.net/guides/energeek.cl.xml, https://xmltv.tvkaista.net/guides/entertainment.ie.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/flixed.io.xml, https://xmltv.tvkaista.net/guides/foxsports.com.au.xml, https://xmltv.tvkaista.net/guides/foxtel.com.au.xml, https://xmltv.tvkaista.net/guides/frikanalen.no.xml, https://xmltv.tvkaista.net/guides/gatotv.com.xml, https://xmltv.tvkaista.net/guides/getafteritmedia.com.xml, https://xmltv.tvkaista.net/guides/guida.tv.xml, https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/horizon.tv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_au.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_binge.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_dstv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_flash.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_foxtel.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_hgtvgo.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_kayo.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_metv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_nz.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_optus.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_pbs.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_plex.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_pluto.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_roku.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_samsung.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_singtel.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_skygo.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_skysportnow.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_stirr.xml, https://xmltv.tvkaista.net/guides/i24news.tv.xml, https://xmltv.tvkaista.net/guides/iltalehti.fi.xml, https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/ipko.com.xml, https://xmltv.tvkaista.net/guides/knr.gl.xml, https://xmltv.tvkaista.net/guides/kvf.fo.xml, https://xmltv.tvkaista.net/guides/m.tv.sms.cz.xml, https://xmltv.tvkaista.net/guides/m.tving.com.xml, https://xmltv.tvkaista.net/guides/magticom.ge.xml, https://xmltv.tvkaista.net/guides/mako.co.il.xml, https://xmltv.tvkaista.net/guides/maxtv.hrvatskitelekom.hr.xml, https://xmltv.tvkaista.net/guides/maxtvgo.mk.xml, https://xmltv.tvkaista.net/guides/mediagenie.co.kr.xml, https://xmltv.tvkaista.net/guides/mediaklikk.hu.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/melita.com.xml, https://xmltv.tvkaista.net/guides/meo.pt.xml, https://xmltv.tvkaista.net/guides/meuguia.tv.xml, https://xmltv.tvkaista.net/guides/mewatch.sg.xml, https://xmltv.tvkaista.net/guides/mi.tv_ar.xml, https://xmltv.tvkaista.net/guides/mi.tv_br.xml, https://xmltv.tvkaista.net/guides/mi.tv_cl.xml, https://xmltv.tvkaista.net/guides/mi.tv_co.xml, https://xmltv.tvkaista.net/guides/mi.tv_gt.xml, https://xmltv.tvkaista.net/guides/mi.tv_hn.xml, https://xmltv.tvkaista.net/guides/mi.tv_mx.xml, https://xmltv.tvkaista.net/guides/mi.tv_pe.xml, https://xmltv.tvkaista.net/guides/mi.tv_py.xml, https://xmltv.tvkaista.net/guides/mi.tv_sv.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/moji.id.xml, https://xmltv.tvkaista.net/guides/mon-programme-tv.be.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/mtel.ba.xml, https://xmltv.tvkaista.net/guides/mts.rs.xml, https://xmltv.tvkaista.net/guides/mujtvprogram.cz.xml, https://xmltv.tvkaista.net/guides/musor.tv.xml, https://xmltv.tvkaista.net/guides/mysky.com.ph.xml, https://xmltv.tvkaista.net/guides/mytelly.co.uk.xml, https://xmltv.tvkaista.net/guides/mytvsuper.com.xml, https://xmltv.tvkaista.net/guides/nhkworldpremium.com.xml, https://xmltv.tvkaista.net/guides/nostv.pt.xml, https://xmltv.tvkaista.net/guides/novacyprus.com.xml, https://xmltv.tvkaista.net/guides/novasports.gr.xml, https://xmltv.tvkaista.net/guides/nowplayer.now.com_en.xml, https://xmltv.tvkaista.net/guides/nowplayer.now.com_zh.xml, https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_freeview.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_pluto.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_redbull.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_sky.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com_au.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com_ca.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com_us.xml, https://xmltv.tvkaista.net/guides/osn.com.xml, https://xmltv.tvkaista.net/guides/pbsguam.org.xml, https://xmltv.tvkaista.net/guides/player.ee.co.uk.xml, https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml, https://xmltv.tvkaista.net/guides/plex.tv.xml, https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml, https://xmltv.tvkaista.net/guides/programacion.tcc.com.uy.xml, https://xmltv.tvkaista.net/guides/programetv.ro.xml, https://xmltv.tvkaista.net/guides/programme-tv.net.xml, https://xmltv.tvkaista.net/guides/programme-tv.vini.pf.xml, https://xmltv.tvkaista.net/guides/programtv.onet.pl.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/reportv.com.ar.xml, https://xmltv.tvkaista.net/guides/rotana.net.xml, https://xmltv.tvkaista.net/guides/rthk.hk.xml, https://xmltv.tvkaista.net/guides/rtmklik.rtm.gov.my.xml, https://xmltv.tvkaista.net/guides/rtp.pt.xml, https://xmltv.tvkaista.net/guides/ruv.is.xml, https://xmltv.tvkaista.net/guides/sat.tv_ar.xml, https://xmltv.tvkaista.net/guides/sat.tv_en.xml, https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml, https://xmltv.tvkaista.net/guides/siba.com.co.xml, https://xmltv.tvkaista.net/guides/singtel.com.xml, https://xmltv.tvkaista.net/guides/sjonvarp.is.xml, https://xmltv.tvkaista.net/guides/sky.co.nz.xml, https://xmltv.tvkaista.net/guides/sky.com.xml, https://xmltv.tvkaista.net/guides/sky.de.xml, https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml, https://xmltv.tvkaista.net/guides/startimestv.com.xml, https://xmltv.tvkaista.net/guides/streamingtvguides.com.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml, https://xmltv.tvkaista.net/guides/taiwanplus.com.xml, https://xmltv.tvkaista.net/guides/tapdmv.com.xml, https://xmltv.tvkaista.net/guides/telenet.tv.xml, https://xmltv.tvkaista.net/guides/teliatv.ee.xml, https://xmltv.tvkaista.net/guides/telkussa.fi.xml, https://xmltv.tvkaista.net/guides/telsu.fi.xml, https://xmltv.tvkaista.net/guides/tivu.tv.xml, https://xmltv.tvkaista.net/guides/toonamiaftermath.com.xml, https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml, https://xmltv.tvkaista.net/guides/tv-programme.telecablesat.fr.xml, https://xmltv.tvkaista.net/guides/tv.blue.ch.xml, https://xmltv.tvkaista.net/guides/tv.cctv.com.xml, https://xmltv.tvkaista.net/guides/tv.dir.bg.xml, https://xmltv.tvkaista.net/guides/tv.lv.xml, https://xmltv.tvkaista.net/guides/tv.magenta.at.xml, https://xmltv.tvkaista.net/guides/tv.mail.ru.xml, https://xmltv.tvkaista.net/guides/tv.movistar.com.pe.xml, https://xmltv.tvkaista.net/guides/tv.nu.xml, https://xmltv.tvkaista.net/guides/tv.post.lu.xml, https://xmltv.tvkaista.net/guides/tv.trueid.net.xml, https://xmltv.tvkaista.net/guides/tv.yandex.ru.xml, https://xmltv.tvkaista.net/guides/tv24.co.uk.xml, https://xmltv.tvkaista.net/guides/tv24.se.xml, https://xmltv.tvkaista.net/guides/tv2go.t-2.net.xml, https://xmltv.tvkaista.net/guides/tvcesoir.fr.xml, https://xmltv.tvkaista.net/guides/tvcubana.icrt.cu.xml, https://xmltv.tvkaista.net/guides/tvgids.nl.xml, https://xmltv.tvkaista.net/guides/tvguide.com.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml, https://xmltv.tvkaista.net/guides/tvhebdo.com.xml, https://xmltv.tvkaista.net/guides/tvheute.at.xml, https://xmltv.tvkaista.net/guides/tvim.tv.xml, https://xmltv.tvkaista.net/guides/tvireland.ie.xml, https://xmltv.tvkaista.net/guides/tvmi.mt.xml, https://xmltv.tvkaista.net/guides/tvmusor.hu.xml, https://xmltv.tvkaista.net/guides/tvpassport.com.xml, https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml, https://xmltv.tvkaista.net/guides/tvprofil.com.xml, https://xmltv.tvkaista.net/guides/tvtv.us.xml, https://xmltv.tvkaista.net/guides/v3.myafn.dodmedia.osd.mil.xml, https://xmltv.tvkaista.net/guides/vidio.com.xml, https://xmltv.tvkaista.net/guides/virginmediatelevision.ie.xml, https://xmltv.tvkaista.net/guides/virgintvgo.virginmedia.com.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml, https://xmltv.tvkaista.net/guides/vtm.be.xml, https://xmltv.tvkaista.net/guides/walesi.com.fj.xml, https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml, https://xmltv.tvkaista.net/guides/watchyour.tv.xml, https://xmltv.tvkaista.net/guides/wavve.com.xml, https://xmltv.tvkaista.net/guides/web.magentatv.de.xml, https://xmltv.tvkaista.net/guides/webtv.delta.nl.xml, https://xmltv.tvkaista.net/guides/worldfishingnetwork.com.xml, https://xmltv.tvkaista.net/guides/www3.nhk.or.jp.xml, https://xmltv.tvkaista.net/guides/xumo.tv.xml, https://xmltv.tvkaista.net/guides/zap.co.ao.xml, https://xmltv.tvkaista.net/guides/ziggogo.tv.xml, https://xmltv.tvkaista.net/guides/znbc.co.zm.xml, https://xmltv.tvkaista.net/guides/zuragt.mn.xml"
-#EXTINF:-1 tvg-name="NHK G (Tokyo) Ⓢ" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOAKDTV.jp" group-title="Japan",NHK G (Tokyo) Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-#EXTINF:-1 tvg-name="NHK G (Osaka) Ⓢ" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOBKDTV.jp" group-title="Japan",NHK G (Osaka) Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:-1 tvg-name="NHK E Ⓢ" tvg-logo="https://i.imgur.com/WxtftlO.png" tvg-id="JOABDTV.jp" group-title="Japan",NHK E Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp" group-title="Japan",NHK World-Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-#EXTINF:-1 tvg-name="Nippon TV (日テレ) Ⓢ" tvg-logo="https://i.imgur.com/IxD8V5X.png" tvg-id="JOAXDTV.jp" group-title="Japan",Nippon TV (日テレ) Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/Wfu61ZU.png" tvg-id="NTVNEWS24.jp" group-title="Japan",日テレNEWS24 Ⓢ
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-name="TV Asahi Ⓢ" tvg-logo="https://i.imgur.com/rls8NVc.png" tvg-id="JOEXDTV.jp" group-title="Japan",TV Asahi Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 tvg-name="TBS Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png" tvg-id="JORXDTV.jp" group-title="Japan",TBS Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 tvg-name="TBS News" tvg-logo="https://i.imgur.com/GoNmywa.png" tvg-id="TBSNEWS.jp" group-title="Japan",TBS News
-https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
-#EXTINF:-1 tvg-name="TV Tokyo Ⓢ" tvg-logo="https://i.imgur.com/tDyxk0Y.png" tvg-id="JOTXDTV.jp" group-title="Japan",TV Tokyo Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-#EXTINF:-1 tvg-name="Fuji TV (フジテレビ) Ⓢ" tvg-logo="https://i.imgur.com/sEWDmMD.png" tvg-id="JOCXDTV.jp" group-title="Japan",Fuji TV (フジテレビ) Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-#EXTINF:-1 tvg-name="Tokyo MX1 Ⓢ" tvg-logo="https://i.imgur.com/igia8OX.png" tvg-id="JOMXDTV.jp" group-title="Japan",Tokyo MX1 Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-#EXTINF:-1 tvg-name="HBC Hokkaido News 24" tvg-logo="https://i.imgur.com/vcGsZVD.png" tvg-id="HBCHokkaidoNews24.jp" group-title="Japan",HBC Hokkaido News 24
-https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
-#EXTINF:-1 tvg-name="HTB Hokkaido News 24" tvg-logo="https://i.imgur.com/yqUItvM.png" tvg-id="HTBHokkaidoNews24.jp" group-title="Japan",HTB Hokkaido News 24
-https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
-#EXTINF:-1 tvg-name="Hokkaido News UHB" tvg-logo="https://i.imgur.com/G8lAJYc.png" tvg-id="HokkaidoNewsUHB.jp" group-title="Japan",Hokkaido News UHB
-https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
-#EXTINF:-1 tvg-name="Niigata News NST" tvg-logo="https://i.imgur.com/5dJE8Fc.jpg" tvg-id="NiigataNewsNST.jp" group-title="Japan",Niigata News NST
-https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
-#EXTINF:-1 tvg-name="SATV News 24H" tvg-logo="https://i.imgur.com/PxFcRh9.jpg" tvg-id="SATVNews24H.jp" group-title="Japan",SATV News 24H
-https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
-#EXTINF:-1 tvg-name="STV News Hokkaido" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg" tvg-id="STVNewsHokkaido.jp" group-title="Japan",STV News Hokkaido
-https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
-#EXTINF:-1 tvg-name="TOS News" tvg-logo="https://i.imgur.com/JBkXyvj.jpg" tvg-id="TOSNews.jp" group-title="Japan",TOS News
-https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
-#EXTINF:-1 tvg-name="Weathernews" tvg-logo="https://i.imgur.com/A8uRSTS.png" tvg-id="Weathernews.jp" group-title="Japan",Weathernews
-https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
-#EXTINF:-1 tvg-name="GSTV" tvg-logo="https://i.imgur.com/ECnVG5I.png" tvg-id="GSTV.jp" group-title="Japan",GSTV
-https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
-#EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/xWSzQ34.png" tvg-id="QVC.jp" group-title="Japan",QVC
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/GTyQhBF.png" tvg-id="ShopChannel.jp" group-title="Japan",Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-name="ANN News" tvg-logo="https://i.imgur.com/9IVsFXz.png" tvg-id="JapaNe
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml" tvg-shift=0 m3uautoload=1
+
+
+# 地デジ関東
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G
+# https://nl.utako.moe/NHK_G/index.m3u8
+https://nhk4.mov3.co/hls/nhk.m3u8
+# http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-E1.jpg",NHK E
+https://nl.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://www.ntv.co.jp/top/images/banners/5aw6digxse1xlo8wiylfkz36jgb7je.jpg",NTV
+https://nl.utako.moe/Nippon_TV/index.m3u8
+# https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS.jpg",TBS
+https://nl.utako.moe/TBS/index.m3u8
+# https://tbs4.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/logo--tvtokyo.png",TV Tokyo
+https://nl.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://kimidori3.github.io/IPTV/icons/mcas_l_none2025.jpg" ,TOKYO MX1
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://kimidori3.github.io/IPTV/icons/mcas_l_none2025.jpg" ,TOKYO MX2
+https://nl.utako.moe/Tokyo_MX2/index.m3u8
+
+
+# 地デジ関西
+#EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G Osaka
+https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06
+#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://kimidori3.github.io/IPTV/icons/ytv.jpg",ytv
+https://nl.utako.moe/ytv/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://www.mbs.jp/common/ogp.png",MBS
+https://nl.utako.moe/mbs/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://kimidori3.github.io/IPTV/icons/tvo_logo.png",TV Osaka
+https://nl.utako.moe/tvo/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://www.ktv.jp/common/img/global/logo_kantele.png",Kansai TV
+https://nl.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://www.kbs-kyoto.co.jp/assets/img/siteid.png" ,KBS
+https://nl.utako.moe/kbs/index.m3u8
+
+
+# BS
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BS.jpg",NHK BS
+https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://www.bs4.jp/assets/images/meta/apple-touch-icon.png",BS NTV
+https://nl.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://kimidori3.github.io/IPTV/icons/logo1.png",BS TBS
+https://nl.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/logo--bstvtokyo.png",BS TV Tokyo
+https://nl.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://kimidori3.github.io/IPTV/icons/bs11-logo.png",BS11
+https://nl.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BSP4K.jpg",NHK BSP4K
+https://nl.utako.moe/bsp4k/index.m3u8
+
+
+# CS
+#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://kimidori3.github.io/IPTV/icons/CNNj.jpg", CNNj
+https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16
+#EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://news.files.bbci.co.uk/include/articles/public/japanese/images/metadata/poster-1024x576.png", BBC News
+https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
+#EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg", TBS News
+https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
+
+
+# Radio
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/r1-badge9x4.png", NHK R1
+https://simul.drdi.st.nhk/live/3/joined/audio/media.m3u8
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/r2-badge9x4.png", NHK R2
+https://simul.drdi.st.nhk/live/4/joined/audio/media.m3u8
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/r3-badge9x4.png", NHK FM
+https://simul.drdi.st.nhk/live/5/joined/audio/media.m3u8
+
+#Rチャンネル
+#EXTINF:-1 tvg-dt="47" tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-dt="45" tvg-id="rch_45" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/107_whethernews.png" group-title="Rakuten-JP",ウェザーニュースLiVE
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-dt="88" tvg-id="rch_88" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="Rakuten-JP",TOKYO MX チャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-dt="83" tvg-id="rch_83" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png" group-title="Rakuten-JP",STOCK VOICE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-dt="103" tvg-id="rch_103" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_NewsWorld.png" group-title="Rakuten-JP",NewsWorld
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-dt="70" tvg-id="rch_70" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/114_bloombergtv.png" group-title="Rakuten-JP",[英語]ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV＋
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-dt="90" tvg-id="rch_90" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_euronews.png" group-title="Rakuten-JP",[英語]ユーロニュース
+https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+
+
+# AbemaTV
+#EXTINF:-1  tvg-id="commercial" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png", CMチャンネル
+https://ds-linear-abematv.akamaized.net/channel/commercial/manifest.mpd
+
+
+# TVer
+#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png"　group-title="TVer"　, 日テレNEWS24-Tver
+https://variants.streaks.jp/v5/tver-splive/ecc1ad44856545d382a4ee08e254da80/5b19a12960f24e76af940cc5d0ab1261/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS_News.jpg" group-title="TVer" , TBS NEWS DIG
+https://variants.streaks.jp/v5/tver-splive/b4f588f1d2144308ac356b0fc0007de6/4b9f219963c04339b18dc50db9b5c4d2/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
+
+
+#YouTube
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d0hKNudFrX0/hqdefault.jpg" group-title="Youtube" ,SREV-S
+https://www.youtube.com/watch?v=d0hKNudFrX0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kCieFrFAZk4/hqdefault.jpg" group-title="Youtube" ,SREV
+https://www.youtube.com/watch?v=kCieFrFAZk4
+#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Youtube" , 日テレNEWS24-YouTube
+https://www.youtube.com/watch?v=t9kwjZBLI-A
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS_News.jpg" group-title="Youtube" , TBS NEWS DIG-YouTube
+https://www.youtube.com/watch?v=Anr15FA9OCI
+
+
+# 外国
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png"　group-title="Foreign"　, NHK World Japan
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png"　group-title="Foreign"　, NHK World Premium
+https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-id="bbc_news" tvg-logo="https://kimidori3.github.io/IPTV/icons/BBC_JP.jpg"　group-title="Foreign"　, BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p0bvs64x.jpg"　group-title="Foreign"　,BBC One
+#EXTINF:-1 tvg-logo="https://www.france.tv/logos/social/france-tv.jpg"　group-title="Foreign"　,F2
+http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.flyingeye.de/wp-content/uploads/2019/05/ZDF_Logo_600x300-1.jpg"　group-title="Foreign"　,ZDF
+http://tv.schulzens.com/stream/channelid/2068356896?profile=pass
+#EXTINF:-1 rvg-logo="https://medias.unifrance.org/medias/5/67/148229/format_hd/tve-television-espanola.png"　group-title="Foreign"　,TVE
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-logo="https://d.newsweek.com/en/full/2130777/russia-1-tv-channel.jpg"　group-title="Foreign"　,ロシアテレビ
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Emblem.png"　group-title="Foreign"　,ABC US
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/featuredImage.jpg"　group-title="Foreign"　,Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/abc_logo-freelogovectors.net_.png"　group-title="Foreign"　,ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Korean_central_tv.png"　group-title="Foreign"　,朝鮮中央テレビ
+https://tv.intchoson.com/kctv/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://img.tvb.com/inews_admin/pro/20230529/live_horizontal_61e53598295dff12d04b3ba5_1685346695745.jpg"　group-title="Foreign"　,TVB News
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 tvg-logo="https://www.publicmediaalliance.org/wp-content/uploads/2020/05/KBS2.png"　group-title="Foreign"　,KBS 1
+https://tv.iill.top/kbs/11&p=0
+#EXTINF:-1 tvg-logo="https://www.cna.com.br/wp-content/uploads/2024/06/logo-CNA.png"　group-title="Foreign"　,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/al-jazeera-logo-png-when-900.png"　group-title="Foreign"　,アルジャジーラ
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.ndtv.com/common/images/ogndtv.png"　group-title="Foreign"　,NDTV
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-logo="https://sntek.vn/wp-content/uploads/2023/10/VTV-1170x620.jpg"　group-title="Foreign"　,VTV
+https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.marefa.org/w/images/thumb/1/1c/Suspilne_Ukraine_logo.svg/1200px-Suspilne_Ukraine_logo.svg.png"　group-title="Foreign"　,ウクライナ公共放送
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
