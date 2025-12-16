@@ -3,5 +3,5 @@
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G
 # https://nl.utako.moe/NHK_G/index.m3u8
-https://nhk4.mov3.co/hls/nhk.m3u8
-# http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+# https://nhk4.mov3.co/hls/nhk.m3u8
+http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
