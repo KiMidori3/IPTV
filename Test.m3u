@@ -7,3 +7,21 @@ https://nl.utako.moe/NHK_G/index.m3u8
 http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G(mov3)
 https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-E1.jpg",NHK E
+https://nl.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G Osaka
+https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BS.jpg",NHK BS
+https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BSP4K.jpg",NHK BSP4K
+https://nl.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/r1-badge9x4.png", NHK R1
+https://simul.drdi.st.nhk/live/3/joined/audio/media.m3u8
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/r2-badge9x4.png", NHK R2
+https://simul.drdi.st.nhk/live/4/joined/audio/media.m3u8
+#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/r3-badge9x4.png", NHK FM
+https://simul.drdi.st.nhk/live/5/joined/audio/media.m3u8
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png"　group-title="Foreign"　, NHK World Japan
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png"　group-title="Foreign"　, NHK World Premium
+https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
