@@ -3,21 +3,21 @@
 
 # 地デジ関東
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G
-https://nl.utako.moe/NHK_G/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=07&bind=0&uin=159413&playseek=0
 # https://nhk4.mov3.co/hls/nhk.m3u8
 # http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-E1.jpg",NHK E
-https://nl.utako.moe/NHK_E/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://www.ntv.co.jp/top/images/banners/5aw6digxse1xlo8wiylfkz36jgb7je.jpg",NTV
-https://nl.utako.moe/Nippon_TV/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=07&bind=0&uin=159413&playseek=0
 # https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS.jpg",TBS
-https://nl.utako.moe/TBS/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=07&bind=0&uin=159413&playseek=0
 # https://tbs4.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/logo--tvtokyo.png",TV Tokyo
-https://nl.utako.moe/TV_Tokyo/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://kimidori3.github.io/IPTV/icons/mcas_l_none2025.jpg" ,TOKYO MX1
-https://nl.utako.moe/Tokyo_MX1/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://kimidori3.github.io/IPTV/icons/mcas_l_none2025.jpg" ,TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 
