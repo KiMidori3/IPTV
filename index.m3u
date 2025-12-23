@@ -26,39 +26,39 @@ https://nl.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://kimidori3.github.io/IPTV/icons/ytv.jpg",ytv
-https://nl.utako.moe/ytv/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://www.mbs.jp/common/ogp.png",MBS
-https://nl.utako.moe/mbs/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://kimidori3.github.io/IPTV/icons/tvo_logo.png",TV Osaka
-https://nl.utako.moe/tvo/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://www.ktv.jp/common/img/global/logo_kantele.png",Kansai TV
-https://nl.utako.moe/kansaitv/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://www.kbs-kyoto.co.jp/assets/img/siteid.png" ,KBS
 https://nl.utako.moe/kbs/index.m3u8
 
 
 # BS
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BS.jpg",NHK BS
-https://nl.utako.moe/NHK_BS/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://www.bs4.jp/assets/images/meta/apple-touch-icon.png",BS NTV
-https://nl.utako.moe/bsntv/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://kimidori3.github.io/IPTV/icons/logo1.png",BS TBS
-https://nl.utako.moe/bstbs/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/logo--bstvtokyo.png",BS TV Tokyo
-https://nl.utako.moe/bstvtokyo/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://kimidori3.github.io/IPTV/icons/bs11-logo.png",BS11
 https://nl.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BSP4K.jpg",NHK BSP4K
-https://nl.utako.moe/bsp4k/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=07&bind=0&uin=159413&playseek=0
 
 
 # CS
 #EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://kimidori3.github.io/IPTV/icons/CNNj.jpg", CNNj
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://news.files.bbci.co.uk/include/articles/public/japanese/images/metadata/poster-1024x576.png", BBC News
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=07&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg", TBS News
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=07&bind=0&uin=159413&playseek=0
 
 
 # Radio
@@ -84,11 +84,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rak
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-dt="90" tvg-id="rch_90" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_euronews.png" group-title="Rakuten-JP",[英語]ユーロニュース
 https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
-
-
-# AbemaTV
-#EXTINF:-1  tvg-id="commercial" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png", CMチャンネル
-https://ds-linear-abematv.akamaized.net/channel/commercial/manifest.mpd
 
 
 # TVer
