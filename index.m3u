@@ -196,3 +196,19 @@ https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.marefa.org/w/images/thumb/1/1c/Suspilne_Ukraine_logo.svg/1200px-Suspilne_Ukraine_logo.svg.png"　group-title="Foreign"　,ウクライナ公共放送
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
+
+
+#EXTINF:-1 tvg-dt="98" tvg-id="rch_98" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png" group-title="RAKUTEN",セクシーエンタメチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="59" tvg-id="rch_59" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png" group-title="RAKUTEN",おとなの歓楽街 by MEN’S NECO
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="41" tvg-id="rch_41" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png" group-title="RAKUTEN",アイドル・グラビア
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="40" tvg-id="rch_40" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png" group-title="RAKUTEN",刺激ストロング
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="42" tvg-id="rch_42" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="RAKUTEN",映画（R15+）
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
