@@ -51,36 +51,36 @@ https://nl.utako.moe/kbs/index.m3u8
 
 
 # BS
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BS.jpg",NHK BS
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://www.bs4.jp/assets/images/meta/apple-touch-icon.png",BS NTV
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
+#EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 
-#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://kimidori3.github.io/IPTV/icons/logo1.png",BS TBS
+#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/logo--bstvtokyo.png",BS TV Tokyo
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://kimidori3.github.io/IPTV/icons/bs11-logo.png",BS11
+#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS11
 https://nl.utako.moe/BS11/index.m3u8
 
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-BSP4K.jpg",NHK BSP4K
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BSP4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=07&bind=0&uin=159413&playseek=0
 
 
 # CS
-#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://kimidori3.github.io/IPTV/icons/CNNj.jpg", CNNj
+#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png", CNNj
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://news.files.bbci.co.uk/include/articles/public/japanese/images/metadata/poster-1024x576.png", BBC News
+#EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png", BBC News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg", TBS News
+#EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png", TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=07&bind=0&uin=159413&playseek=0
 
 
@@ -141,7 +141,7 @@ https://www.youtube.com/watch?v=Anr15FA9OCI
 
 
 # 外国
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png"　group-title="Foreign"　, NHK World Japan
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-038-400x400.png"　group-title="Foreign"　, NHK World Japan
 https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png"　group-title="Foreign"　, NHK World Premium
