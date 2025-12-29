@@ -2,48 +2,48 @@
 
 
 # 地デジ関東
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png",NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-E1.jpg",NHK E
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png",NHK E
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://www.ntv.co.jp/top/images/banners/5aw6digxse1xlo8wiylfkz36jgb7je.jpg",NTV
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png",NTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png",TV Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS.jpg",TBS
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png",TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://kimidori3.github.io/IPTV/icons/logo--tvtokyo.png",TV Tokyo
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png",TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://kimidori3.github.io/IPTV/icons/mcas_l_none2025.jpg" ,TOKYO MX1
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" ,TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://kimidori3.github.io/IPTV/icons/mcas_l_none2025.jpg" ,TOKYO MX2
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" ,TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 
 
 # 地デジ関西
-#EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://kimidori3.github.io/IPTV/icons/NHK-G1.jpg",NHK G Osaka
+#EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D70-011-400x400.png",NHK G Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://kimidori3.github.io/IPTV/icons/ytv.jpg",ytv
+#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD5-101-400x400.png",ytv
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://www.mbs.jp/common/ogp.png",MBS
+#EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD2-041-400x400.png",MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://kimidori3.github.io/IPTV/icons/tvo_logo.png",TV Osaka
+#EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D76-071-400x400.png",TV Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://www.ktv.jp/common/img/global/logo_kantele.png",Kansai TV
+#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD4-081-400x400.png",Kansai TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://www.kbs-kyoto.co.jp/assets/img/siteid.png" ,KBS
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D66-051-400x400.png" ,KBS
 https://nl.utako.moe/kbs/index.m3u8
 
 
