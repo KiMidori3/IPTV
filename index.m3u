@@ -96,8 +96,6 @@ https://simul.drdi.st.nhk/live/5/joined/audio/media.m3u8
 
 
 #Rチャンネル
-#EXTINF:-1 tvg-dt="47" tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP",日テレNEWS
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-dt="43" tvg-id="rch_43" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png" group-title="RAKUTEN",HISTORY
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakutenjp/playlist.m3u8
@@ -105,23 +103,26 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakut
 #EXTINF:-1 tvg-dt="45" tvg-id="rch_45" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/107_whethernews.png" group-title="Rakuten-JP",ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
+#EXTINF:-1 tvg-dt="47" tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+
 #EXTINF:-1 tvg-dt="56" tvg-id="rch_56" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png" group-title="RAKUTEN",共同通信News
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-dt="88" tvg-id="rch_88" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="Rakuten-JP",TOKYO MX チャンネル
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-dt="83" tvg-id="rch_83" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png" group-title="Rakuten-JP",STOCK VOICE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-dt="103" tvg-id="rch_103" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_NewsWorld.png" group-title="Rakuten-JP",NewsWorld
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-dt="70" tvg-id="rch_70" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/114_bloombergtv.png" group-title="Rakuten-JP",[英語]ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV＋
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
 
+#EXTINF:-1 tvg-dt="83" tvg-id="rch_83" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png" group-title="Rakuten-JP",STOCK VOICE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="88" tvg-id="rch_88" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="Rakuten-JP",TOKYO MX チャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+
 #EXTINF:-1 tvg-dt="90" tvg-id="rch_90" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_euronews.png" group-title="Rakuten-JP",[英語]ユーロニュース
 https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="103" tvg-id="rch_103" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_NewsWorld.png" group-title="Rakuten-JP",NewsWorld
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
 
 
 # TVer
