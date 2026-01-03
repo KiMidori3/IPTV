@@ -20,7 +20,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=07&b
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png",TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" ,TOKYO MX1
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" ,TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=07&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" ,TOKYO MX2
@@ -69,7 +69,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=07&b
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS11
 https://nl.utako.moe/BS11/index.m3u8
 
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BSP4K
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BSP4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=07&bind=0&uin=159413&playseek=0
 
 
