@@ -31,15 +31,6 @@ It is **not intended for public distribution or sharing**.
 - このリポジトリに含まれるプレイリストファイル（例：`.m3u`など）は、**自分の端末での利用のみを目的としています。**  
 - これらのプレイリストやリンクを**他者と共有・再公開・再配布することは禁止**します。  
 
----
 
-## Related Links / 関連リンク
-
-- [karenda-jp / etc](https://github.com/karenda-jp/etc)  
-- [luongz / IPTV-JP](https://github.com/luongz/iptv-jp)  
-- [Rakuten TV Channel](https://channel.rakuten.co.jp/)  
-- [TVer](https://tver.jp/)
-
----
 
 © 2025 kimidori
