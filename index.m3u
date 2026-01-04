@@ -23,7 +23,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=07&b
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" ,TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" ,TOKYO MX2
+#EXTINF:-1 group-title="Tokyo" tvg-id="jcom_2_23608_32391" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" ,TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 
 
