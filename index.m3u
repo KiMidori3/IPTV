@@ -151,7 +151,7 @@ https://www.youtube.com/watch?v=Anr15FA9OCI
 
 
 # 外国
-#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-038-400x400.png"　group-title="Foreign"　, NHK World Japan
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-038-400x400.png"　group-title="Foreign" tvg-id="nhk_world_japan" , NHK World Japan
 https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png"　group-title="Foreign"　, NHK World Premium
