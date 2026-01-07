@@ -74,14 +74,27 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=07&b
 
 
 # CS
-#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png", CNNj
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=07&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png", BBC News
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=07&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="CS" tvg-id="discovery_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+
+#EXTINF:-1 group-title="CS" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", History
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+
+#EXTINF:-1 group-title="CS" tvg-id="natgeo" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg", National Geographic Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+
+#EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png", Tabi Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png", TBS News
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=07&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
+#EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png", BBC News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+
+#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png", CNNj
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 
 
 # Radio
