@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://epghub.xyz/epg/EPG-JP.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://epghub.xyz/epg/EPG-JP.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz" tvg-shift=0 m3uautoload=1
 
 
 # 地デジ関東
@@ -169,7 +169,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p0bvs64x.jpg"　group-title="Foreign"　,BBC One
 
-#EXTINF:-1 tvg-logo="https://www.france.tv/logos/social/france-tv.jpg"　group-title="Foreign"　,F2
+#EXTINF:-1 tvg-logo="https://www.france.tv/logos/social/france-tv.jpg"　group-title="Foreign"　tvg-id="France2.fr" ,F2
 http://69.64.57.208/france2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.flyingeye.de/wp-content/uploads/2019/05/ZDF_Logo_600x300-1.jpg"　group-title="Foreign"　,ZDF
