@@ -171,7 +171,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 http://69.64.57.208/france2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.flyingeye.de/wp-content/uploads/2019/05/ZDF_Logo_600x300-1.jpg"　group-title="Foreign"　tvg-id="ZDF.de" ,ZDF
-http://tv.schulzens.com/stream/channelid/2068356896?profile=pass
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 
 #EXTINF:-1 rvg-logo="https://medias.unifrance.org/medias/5/67/148229/format_hd/tve-television-espanola.png"　group-title="Foreign"　,TVE
 https://ztnr.rtve.es/ztnr/1688877.m3u8
