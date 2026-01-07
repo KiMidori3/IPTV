@@ -200,11 +200,5 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/al-jazeera-logo-png-when-900.png"　group-title="Foreign"　,アルジャジーラ
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.ndtv.com/common/images/ogndtv.png"　group-title="Foreign"　,NDTV
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://sntek.vn/wp-content/uploads/2023/10/VTV-1170x620.jpg"　group-title="Foreign"　,VTV
-https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.marefa.org/w/images/thumb/1/1c/Suspilne_Ukraine_logo.svg/1200px-Suspilne_Ukraine_logo.svg.png"　group-title="Foreign"　,ウクライナ公共放送
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
