@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://epghub.xyz/epg/EPG-JP.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://epghub.xyz/epg/EPG-JP.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://epghub.xyz/epg/EPG-ES.xml.gz" tvg-shift=0 m3uautoload=1
 
 
 # 地デジ関東
