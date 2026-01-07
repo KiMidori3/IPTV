@@ -143,13 +143,13 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakuten
 
 # TVer
 
-#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png"　group-title="TVer" tvg-id="ntv_news24" , 日テレ系-Tver
+#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/icon/ntv.jpg?v=2"　group-title="TVer" , 日テレ系-Tver
 https://ssai-manifest.streaks.jp/v6/tver-simul-ntv/938232e586b34196b704a5839663984b/cb593b5eafbb4645907e979d757e1dd5/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjU5ZTE4ZTUyZDhmODQ2MDhhYjgwNTY2YzdhN2Y5NWM5IiwiZWRnZSI6ImMwODk5MjQwZjljZTQ2ODg4ZDExZjAyZTY4MzcwOTBkIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc2Nzc2NDQwMCwidnA5IjoxLCJzbSI6IjllMDlhNzg1NWZhMDRhM2U4YjMzNjNmNDFiNDE3NzQxIiwicHB3IjoiMXZ2In0.bMGd0GFHZgBc-7nyTremo4IzJN1cRPUBPO_YBAyndvs&pdt=-10277&session=b70278cd-500c-4ef0-a7fe-391b1ea40afb
 
-#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png"　group-title="TVer" tvg-id="ntv_news24" , TBS系-Tver
+#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/icon/tbs.jpg?v=2"　group-title="TVer" , TBS系-Tver
 https://ssai-manifest.streaks.jp/v6/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjJhMzYzMGE0ZjEyYzQ3MTdhMWNiNzVkNDIyZWVmNDllIiwiZWRnZSI6ImU3YzgzOTVmZDNlMjRkY2ZhNGQyMGExNjM1MzdiYTU4IiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc2Nzc2NDQwMCwidnA5IjoxLCJzbSI6IjlkMmM2NjZhN2E4ZTQzNDI4ZWI0YjE0YjA2MThkYjI4IiwicHB3IjoiMjAzIn0.jtZid1yCdgn_IdSIFzkfrasLptiLmGj-FfRZSL68iNU&pdt=-10109&session=2b12a85d-5c42-4576-830d-3a334bf16657
 
-#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png"　group-title="TVer" tvg-id="ntv_news24" , テレ東系-Tver
+#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/icon/tx.jpg?v=2"　group-title="TVer" , テレ東系-Tver
 https://ssai-manifest.streaks.jp/v6/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6ImQ1YThjM2ZkMjI5ZTQ4ODg5MmVkY2E2YjQzN2FlMDNkIiwiZWRnZSI6Ijg2NWI4NDUyMmI3MjRkNzc4YTFhNmQ3NWI3ZTI1NDhlIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc2Nzc2NDQwMCwidnA5IjoxLCJzbSI6ImNjZDBkZWE2MDY5ZDQyODM4ZDU5MDQ0N2I5NWU3NDAwIiwicHB3IjoiMjA1In0.ANOyivyTekBtHzIEDysXzmJFVA_0acQMM73DVPe0D2U&pdt=-12383&session=6d4b1635-5bcc-4048-a73f-b80830b576fd
 
 #EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png"　group-title="TVer" tvg-id="ntv_news24" , 日テレNEWS24-Tver
