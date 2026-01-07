@@ -188,9 +188,6 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/abc_logo-freelogovectors.net_.png"　group-title="Foreign"　,ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Korean_central_tv.png"　group-title="Foreign"　,朝鮮中央テレビ
-https://tv.intchoson.com/kctv/main_stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.tvb.com/inews_admin/pro/20230529/live_horizontal_61e53598295dff12d04b3ba5_1685346695745.jpg"　group-title="Foreign"　,TVB News
 http://r.jdshipin.com/CkuBd
 
