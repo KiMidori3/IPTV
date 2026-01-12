@@ -6,7 +6,7 @@ https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr011/1080p/mpegts
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png",NHK E
 https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr021/1080p/mpegts
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="chiba_tv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png",チバテレビ
+#EXTINF:-1 group-title="Tokyo" tvg-id="chiba_tv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E47-031-400x400.png",チバテレビ
 https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr031/1080p/mpegts
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png",NTV
