@@ -1,28 +1,28 @@
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://epghub.xyz/epg/EPG-JP.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png",NHK G
-https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr011/1080p/mpegts
+https://100-74-216-93.local.konomi.tv:7000/api/streams/live/gr011/1080p/mpegts
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png",NHK E
-https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr021/1080p/mpegts
+https://100-74-216-93.local.konomi.tv:7000/api/streams/live/gr021/1080p/mpegts
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="chiba_tv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E47-031-400x400.png",チバテレビ
-https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr031/1080p/mpegts
+https://100-74-216-93.local.konomi.tv:7000/api/streams/live/gr031/1080p/mpegts
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png",NTV
-https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr041/1080p/mpegts
+https://100-74-216-93.local.konomi.tv:7000/api/streams/live/gr041/1080p/mpegts
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png",TV Asahi
-https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr051/1080p/mpegts
+https://100-74-216-93.local.konomi.tv:7000/api/streams/live/gr051/1080p/mpegts
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png",TBS
-https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr061/1080p/mpegts
+https://100-74-216-93.local.konomi.tv:7000/api/streams/live/gr061/1080p/mpegts
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png",TV Tokyo
-https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr071/1080p/mpegts
+https://100-74-216-93.local.konomi.tv:7000/api/streams/live/gr071/1080p/mpegts
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png",TOKYO MX1
-https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr091/1080p/mpegts
+https://100-74-216-93.local.konomi.tv:7000/api/streams/live/gr091/1080p/mpegts
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" ,TOKYO MX2
-https://100-118-182-84.local.konomi.tv:7000/api/streams/live/gr093/1080p/mpegts
+https://100-74-216-93.local.konomi.tv:7000/api/streams/live/gr093/1080p/mpegts
