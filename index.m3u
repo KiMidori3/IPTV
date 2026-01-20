@@ -195,8 +195,8 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/abc_logo-freelogovectors.net_.png"　group-title="Foreign"　,ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.publicmediaalliance.org/wp-content/uploads/2020/05/KBS2.png"　group-title="Foreign"　,KBS 1
-https://tv.iill.top/kbs/11&p=0
+#EXTINF:-1 tvg-logo="https://www.publicmediaalliance.org/wp-content/uploads/2020/05/KBS2.png"　group-title="Foreign"　,KBS News 24
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY5MDQ5NjAxfX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=DxXcYA0ZRWBJ5WMWC5-H7rPyDWvc8RUiM4GixTIRBIPTpf6FLUl4vOXRMGldufYzVf8KCPNoVOC2JJly4Ps3geCnxZIlxkN5ayuwMrjn8UrEe~P20f6uTqBYnRRKz8cs7p4S~6OjrBHTY7gAlWyUHDEaI99Y-liwQR0QJNDLtY9ZJk1MtLs4VG1ZyUkqYI6zdDePVKzhf4SUYS49m0P6nsSZ-F~7dO0nvijrrSFfNRNKcHC6G5wQmvoI0QcfjLPJ163S44RqNobrt72esfnBfzEjyb3apmCOf0SBW7K0PCGz-bRJPx6mJkhxm08dSeWijC0JL50juPckdyntZf3aqw__
 
 #EXTINF:-1 tvg-logo="https://www.cna.com.br/wp-content/uploads/2024/06/logo-CNA.png"　group-title="Foreign"　,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
