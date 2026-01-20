@@ -186,9 +186,6 @@ https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 #EXTINF:-1 rvg-logo="https://medias.unifrance.org/medias/5/67/148229/format_hd/tve-television-espanola.png"　group-title="Foreign"　tvg-id="TVE.Internacional.es" ,TVE Internacional
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 tvg-logo="https://d.newsweek.com/en/full/2130777/russia-1-tv-channel.jpg"　group-title="Foreign"　,ロシアテレビ
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Emblem.png"　group-title="Foreign"　,ABC US
 http://41.205.93.154/ABC/index.m3u8
 
@@ -197,9 +194,6 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/abc_logo-freelogovectors.net_.png"　group-title="Foreign"　,ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.tvb.com/inews_admin/pro/20230529/live_horizontal_61e53598295dff12d04b3ba5_1685346695745.jpg"　group-title="Foreign"　,TVB News
-http://r.jdshipin.com/CkuBd
 
 #EXTINF:-1 tvg-logo="https://www.publicmediaalliance.org/wp-content/uploads/2020/05/KBS2.png"　group-title="Foreign"　,KBS 1
 https://tv.iill.top/kbs/11&p=0
@@ -210,5 +204,5 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/al-jazeera-logo-png-when-900.png"　group-title="Foreign"　,アルジャジーラ
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.marefa.org/w/images/thumb/1/1c/Suspilne_Ukraine_logo.svg/1200px-Suspilne_Ukraine_logo.svg.png"　group-title="Foreign"　,ウクライナ公共放送
-http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/imageup/CNBC/CNBC_(4).png"　group-title="Foreign"　,CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
