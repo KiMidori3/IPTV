@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://epghub.xyz/epg/EPG-JP.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://epghub.xyz/epg/EPG-JP.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://raw.githubusercontent.com/dbghelp/BBC-EPG/refs/heads/main/bbc.xml" tvg-shift=0 m3uautoload=1
 
 
 # 地デジ関東
@@ -174,7 +174,7 @@ https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png"　group-title="Foreign"　tvg-id="NHKWorldPremium.jp" , NHK World Premium
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-#EXTINF:-1 tvg-id="bbc_news" tvg-logo="https://kimidori3.github.io/IPTV/icons/BBC_JP.jpg"　group-title="Foreign"　, BBC News
+#EXTINF:-1 tvg-id="bbcnews" tvg-logo="https://kimidori3.github.io/IPTV/icons/BBC_JP.jpg"　group-title="Foreign"　, BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.france.tv/logos/social/france-tv.jpg"　group-title="Foreign"　tvg-id="France2.fr" ,France 2
