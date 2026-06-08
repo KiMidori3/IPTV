@@ -143,28 +143,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakut
 #EXTINF:-1 tvg-dt="30" tvg-id="rch_30" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png" group-title="RAKUTEN",鉄道・旅
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
 
-
-# TVer
-
-#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/icon/ntv.jpg?v=2"　group-title="TVer" , 日テレ系-Tver
-https://ssai-manifest.streaks.jp/v6/tver-simul-ntv/938232e586b34196b704a5839663984b/cb593b5eafbb4645907e979d757e1dd5/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjU5ZTE4ZTUyZDhmODQ2MDhhYjgwNTY2YzdhN2Y5NWM5IiwiZWRnZSI6ImMwODk5MjQwZjljZTQ2ODg4ZDExZjAyZTY4MzcwOTBkIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc2Nzc2NDQwMCwidnA5IjoxLCJzbSI6IjllMDlhNzg1NWZhMDRhM2U4YjMzNjNmNDFiNDE3NzQxIiwicHB3IjoiMXZ2In0.bMGd0GFHZgBc-7nyTremo4IzJN1cRPUBPO_YBAyndvs&pdt=-10277&session=b70278cd-500c-4ef0-a7fe-391b1ea40afb
-
-#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/icon/tbs.jpg?v=2"　group-title="TVer" , TBS系-Tver
-https://ssai-manifest.streaks.jp/v6/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjJhMzYzMGE0ZjEyYzQ3MTdhMWNiNzVkNDIyZWVmNDllIiwiZWRnZSI6ImU3YzgzOTVmZDNlMjRkY2ZhNGQyMGExNjM1MzdiYTU4IiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc2Nzc2NDQwMCwidnA5IjoxLCJzbSI6IjlkMmM2NjZhN2E4ZTQzNDI4ZWI0YjE0YjA2MThkYjI4IiwicHB3IjoiMjAzIn0.jtZid1yCdgn_IdSIFzkfrasLptiLmGj-FfRZSL68iNU&pdt=-10109&session=2b12a85d-5c42-4576-830d-3a334bf16657
-
-#EXTINF:-1 tvg-logo="https://statics.tver.jp/images/icon/tx.jpg?v=2"　group-title="TVer" , テレ東系-Tver
-https://ssai-manifest.streaks.jp/v6/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6ImQ1YThjM2ZkMjI5ZTQ4ODg5MmVkY2E2YjQzN2FlMDNkIiwiZWRnZSI6Ijg2NWI4NDUyMmI3MjRkNzc4YTFhNmQ3NWI3ZTI1NDhlIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc2Nzc2NDQwMCwidnA5IjoxLCJzbSI6ImNjZDBkZWE2MDY5ZDQyODM4ZDU5MDQ0N2I5NWU3NDAwIiwicHB3IjoiMjA1In0.ANOyivyTekBtHzIEDysXzmJFVA_0acQMM73DVPe0D2U&pdt=-12383&session=6d4b1635-5bcc-4048-a73f-b80830b576fd
-
-#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png"　group-title="TVer" tvg-id="ntv_news24" , 日テレNEWS24-Tver
-https://variants.streaks.jp/v5/tver-splive/ecc1ad44856545d382a4ee08e254da80/5b19a12960f24e76af940cc5d0ab1261/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
-
-#EXTINF:-1 tvg-logo="https://kimidori3.github.io/IPTV/icons/TBS_News.jpg" group-title="TVer" tvg-id="tbs_news" , TBS NEWS DIG
-https://variants.streaks.jp/v5/tver-splive/b4f588f1d2144308ac356b0fc0007de6/4b9f219963c04339b18dc50db9b5c4d2/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
-
-
 #YouTube
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d0hKNudFrX0/hqdefault.jpg" group-title="Youtube" ,SREV-S
-https://www.youtube.com/watch?v=d0hKNudFrX0
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kCieFrFAZk4/hqdefault.jpg" group-title="Youtube" ,SREV
 https://www.youtube.com/watch?v=kCieFrFAZk4
@@ -177,7 +156,7 @@ https://p14080-live02.videog.jp/stockvoice/abr-streamnt/svlivent/1.5m/chunks_dvr
 
 # 外国
 #EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-038-400x400.png"　group-title="Foreign" tvg-id="NHKWorldJapan.jp" , NHK World Japan
-https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png"　group-title="Foreign"　tvg-id="NHKWorldPremium.jp" , NHK World Premium
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
