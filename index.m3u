@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://epghub.xyz/epg/EPG-JP.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://raw.githubusercontent.com/dbghelp/BBC-EPG/refs/heads/main/bbc.xml" tvg-shift=0 m3uautoload=1
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/Abema-TV-EPG/refs/heads/main/abema.xml,https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://epghub.xyz/epg/EPG-JP.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://raw.githubusercontent.com/dbghelp/BBC-EPG/refs/heads/main/bbc.xml" tvg-shift=0 m3uautoload=1
 
 # 地デジ関東
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png",NHK G
@@ -142,6 +141,18 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakut
 
 #EXTINF:-1 tvg-dt="30" tvg-id="rch_30" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png" group-title="RAKUTEN",鉄道・旅
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
+
+# Abema
+
+#EXTINF:-1  tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png", ABEMA NEWSチャンネル
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cPvUWPYWUZy1TKctTQOMBQ==","kid":"cC4qJlB/Wk2W7a7T7sMteg=="}],"type":"temporary"}
+https://ds-linear-abematv.akamaized.net/channel/abema-news/manifest.mpd
+
+#EXTINF:-1  tvg-id="news-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/news-plus/logo.png", ABEMA NEWS会見チャンネル
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3lL0KlyeWd+iy/wnpF25Tw==","kid":"tLxY8dMZWAaxphsdnDBOvQ=="}],"type":"temporary"}
+https://ds-linear-abematv.akamaized.net/channel/news-plus/manifest.mpd
 
 #YouTube
 
