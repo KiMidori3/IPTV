@@ -1,0 +1,28 @@
+#EXTM3U url-tvg="http://100.74.216.93:40772/api/iptv/xmltv"
+#KODIPROP:mimetype=video/mp2t
+#EXTINF:-1 tvg-id="3273601024" tvg-logo="http://100.74.216.93:40772/api/services/3273601024/logo" group-title="GR",ＮＨＫ総合１・東京
+http://100.74.216.93:40772/api/services/3273601024/stream
+#KODIPROP:mimetype=video/mp2t
+#EXTINF:-1 tvg-id="3273701032" tvg-logo="http://100.74.216.93:40772/api/services/3273701032/logo" group-title="GR",ＮＨＫＥテレ１東京
+http://100.74.216.93:40772/api/services/3273701032/stream
+#KODIPROP:mimetype=video/mp2t
+#EXTINF:-1 tvg-id="3232727704" tvg-logo="http://100.74.216.93:40772/api/services/3232727704/logo" group-title="GR",チバテレ１
+http://100.74.216.93:40772/api/services/3232727704/stream
+#KODIPROP:mimetype=video/mp2t
+#EXTINF:-1 tvg-id="3273801040" tvg-logo="http://100.74.216.93:40772/api/services/3273801040/logo" group-title="GR",日テレ１
+http://100.74.216.93:40772/api/services/3273801040/stream
+#KODIPROP:mimetype=video/mp2t
+#EXTINF:-1 tvg-id="3274101064" tvg-logo="http://100.74.216.93:40772/api/services/3274101064/logo" group-title="GR",テレビ朝日
+http://100.74.216.93:40772/api/services/3274101064/stream
+#KODIPROP:mimetype=video/mp2t
+#EXTINF:-1 tvg-id="3273901048" tvg-logo="http://100.74.216.93:40772/api/services/3273901048/logo" group-title="GR",ＴＢＳ１
+http://100.74.216.93:40772/api/services/3273901048/stream
+#KODIPROP:mimetype=video/mp2t
+#EXTINF:-1 tvg-id="3274201072" tvg-logo="http://100.74.216.93:40772/api/services/3274201072/logo" group-title="GR",テレ東
+http://100.74.216.93:40772/api/services/3274201072/stream
+#KODIPROP:mimetype=video/mp2t
+#EXTINF:-1 tvg-id="3239123608" tvg-logo="http://100.74.216.93:40772/api/services/3239123608/logo" group-title="GR",ＴＯＫＹＯ　ＭＸ１
+http://100.74.216.93:40772/api/services/3239123608/stream
+#KODIPROP:mimetype=video/mp2t
+#EXTINF:-1 tvg-id="3239123610" tvg-logo="http://100.74.216.93:40772/api/services/3239123610/logo" group-title="GR",ＴＯＫＹＯ　ＭＸ２
+http://100.74.216.93:40772/api/services/3239123610/stream
