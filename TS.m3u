@@ -43,29 +43,32 @@ http://100.74.216.93:40772/api/services/3239123608/stream
 http://100.74.216.93:40772/api/services/3239123610/stream
 
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png",NHK G ワンセグ
+#EXTINF:-1 tvg-id="3273601024" tvg-logo="http://100.74.216.93:40772/api/services/3273601024/logo" group-title="GR",ＮＨＫ総合・東京 ワンセグ
 http://100.74.216.93:40772/api/channels/GR/T27/services/1408/stream
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png",NHK E　ワンセグ
+#EXTINF:-1 tvg-id="3273701032" tvg-logo="http://100.74.216.93:40772/api/services/3273701032/logo" group-title="GR",ＮＨＫＥテレ東京 ワンセグ
 http://100.74.216.93:40772/api/channels/GR/T26/services/1416/stream
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="chiba_tv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E47-031-400x400.png",チバテレビ　ワンセグ
+#EXTINF:-1 tvg-id="3232727704" tvg-logo="http://100.74.216.93:40772/api/services/3232727704/logo" group-title="GR",チバテレ ワンセグ
 http://100.74.216.93:40772/api/channels/GR/T30/services/28088/stream
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png",日本テレビ　ワンセグ
+#EXTINF:-1 tvg-id="3273801040" tvg-logo="http://100.74.216.93:40772/api/services/3273801040/logo" group-title="GR",日テレ ワンセグ
 http://100.74.216.93:40772/api/channels/GR/T25/services/1424/stream
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png",テレビ朝日　ワンセグ
+#EXTINF:-1 tvg-id="3274101064" tvg-logo="http://100.74.216.93:40772/api/services/3274101064/logo" group-title="GR",テレビ朝日 ワンセグ
 http://100.74.216.93:40772/api/channels/GR/T24/services/1448/stream
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png",TBS　ワンセグ
+#EXTINF:-1 tvg-id="3273901048" tvg-logo="http://100.74.216.93:40772/api/services/3273901048/logo" group-title="GR",ＴＢＳ ワンセグ
 http://100.74.216.93:40772/api/channels/GR/T22/services/1432/stream
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png",テレビ東京　ワンセグ
+#EXTINF:-1 tvg-id="3274201072" tvg-logo="http://100.74.216.93:40772/api/services/3274201072/logo" group-title="GR",テレ東 ワンセグ
 http://100.74.216.93:40772/api/channels/GR/T23/services/1456/stream
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png",TOKYO MX1　ワンセグ
+#EXTINF:-1 tvg-id="3274001056" group-title="GR",フジテレビ ワンセグ
+http://100.74.216.93:40772/api/channels/GR/T21/services/1440/stream
+
+#EXTINF:-1 tvg-id="3239123608" tvg-logo="http://100.74.216.93:40772/api/services/3239123608/logo" group-title="GR",ＴＯＫＹＯ　ＭＸ１ ワンセグ
 http://100.74.216.93:40772/api/channels/GR/T16/services/23992/stream
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" ,TOKYO MX2　ワンセグ
+#EXTINF:-1 tvg-id="3239123610" tvg-logo="http://100.74.216.93:40772/api/services/3239123610/logo" group-title="GR",ＴＯＫＹＯ　ＭＸ２ ワンセグ
 http://100.74.216.93:40772/api/channels/GR/T16/services/23993/stream
